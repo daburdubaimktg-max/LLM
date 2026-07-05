@@ -6,7 +6,7 @@ Scope: `OMAN_OralCare_Category_Analysis_and_Entry_Strategy.html` vs kit §7, C1�
 
 | Check | Bar | This report | Verdict |
 |---|---|---|---|
-| Visible words | ~6,000–9,000 | **6,059** | ✅ |
+| Visible words | ~6,000–9,000 | **6,053** | ✅ |
 | Data tables | ≥20 | **28** (T1–T28) | ✅ |
 | 8 mandatory modules | all | ✅ teardowns woven (Colgate ladder, Himalaya's third-market price chaos, Listerine's rented code live on noon OM, souq taproots) · 3-move playbook · saliency T18 · margins T19 · 16-row scrape T20 · verified copy T22 (Colgate pan-GCC + Omani luban-seller verbatim) + LEAP T23 (Colgate 19/40, gap named) · dual-lane waterfall T24 (the double-zero duty) · glossary 26 terms/4 groups T25 | ✅ |
 | Local script | required | ✅ Arabic throughout; the luban lexicon (حوجري، ماء اللبان) added; proposed lines labelled test lines | ✅ |
@@ -33,5 +33,5 @@ groups); tag balance verified.
 
 ## Verdict
 
-**PASS** — 6,059 words / 28 tables / all modules / verified Arabic incl. local luban-seller copy /
+**PASS** — 6,053 words / 28 tables / all modules / verified Arabic incl. local luban-seller copy /
 dated falsifiable bet with priced learning.
