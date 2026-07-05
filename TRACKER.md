@@ -6,7 +6,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 
 | Batch | Region | Country | Regional expert | Owner | Macro | Hair | Oral | OTC | Skin | Folder |
 |---|---|---|---|---|---|---|---|---|---|---|
-| REF | SE Asia | Vietnam (calibration) | Gap rule (generic + local-lang) | Claude | 🔨 | ✅ (benchmark) | ✅ (benchmark) | ✅ (benchmark) | ✅ (benchmark) | `reports/REF-vietnam/` |
+| REF | SE Asia | Vietnam (calibration) | Gap rule (generic + local-lang) | Claude | 👀 | ✅ (benchmark) | ✅ (benchmark) | ✅ (benchmark) | ✅ (benchmark) | `reports/REF-vietnam/` |
 | B1 | SE Asia | Malaysia | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B1-malaysia/` |
 | B1 | SE Asia | Thailand | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B1-thailand/` |
 | B1 | SE Asia | Indonesia | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B1-indonesia/` |
@@ -50,4 +50,4 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Qatar | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-qatar/` |
 | B9 | GCC | Bahrain | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-bahrain/` |
 
-**Progress: 0 / 210 reports done.**
+**Progress: 0 / 210 batch reports done. Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file.**
