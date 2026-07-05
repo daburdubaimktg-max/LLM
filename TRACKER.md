@@ -7,7 +7,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | Batch | Region | Country | Regional expert | Owner | Macro | Hair | Oral | OTC | Skin | Folder |
 |---|---|---|---|---|---|---|---|---|---|---|
 | REF | SE Asia | Vietnam (calibration) | Gap rule (generic + local-lang) | Claude | 👀 | ✅ (benchmark) | ✅ (benchmark) | ✅ (benchmark) | ✅ (benchmark) | `reports/REF-vietnam/` |
-| B1 | SE Asia | Malaysia | Gap rule (generic + local-lang) | Claude | ✅ | ✅ | 🔨 | ⬜ | ⬜ | `reports/B1-malaysia/` |
+| B1 | SE Asia | Malaysia | Gap rule (generic + local-lang) | Claude | ✅ | ✅ | ✅ | ⬜ (queued) | ⬜ (queued) | `reports/B1-malaysia/` |
 | B1 | SE Asia | Thailand | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B1-thailand/` |
 | B1 | SE Asia | Indonesia | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B1-indonesia/` |
 | B1 | SE Asia | Philippines | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B1-philippines/` |
@@ -44,7 +44,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B8 | SSA - Southern | Namibia | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B8-namibia/` |
 | B8 | SSA - Southern | Botswana | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B8-botswana/` |
 | B9 | GCC | Saudi Arabia | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-saudi-arabia/` |
-| B9 | GCC | UAE | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-uae/` |
+| B9 | GCC | UAE | Arabic + MENA insight | Claude | 🔨 | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-uae/` |
 | B9 | GCC | Kuwait | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-kuwait/` |
 | B9 | GCC | Oman | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-oman/` |
 | B9 | GCC | Qatar | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-qatar/` |
