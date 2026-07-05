@@ -12,6 +12,7 @@
 | B9-bahrain | BAHRAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-bahrain/BAHRAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 6637 |
 | B9-bahrain | BAHRAIN_OralCare_Category_Analysis_and_Entry_Strategy | facts/B9-bahrain/BAHRAIN_OralCare_Category_Analysis_and_Entry_Strategy.md | 6533 |
 | B9-bahrain | BAHRAIN_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B9-bahrain/BAHRAIN_SkinCare_Category_Analysis_and_Entry_Strategy.md | 6279 |
+| B9-oman | OMAN_MACRO_Country_Entry_Foundation | facts/B9-oman/OMAN_MACRO_Country_Entry_Foundation.md | 4367 |
 | B9-uae | UAE_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_HairCare_Category_Analysis_and_Entry_Strategy.md | 6333 |
 | B9-uae | UAE_MACRO_Country_Entry_Foundation | facts/B9-uae/UAE_MACRO_Country_Entry_Foundation.md | 6001 |
 | B9-uae | UAE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 7691 |
