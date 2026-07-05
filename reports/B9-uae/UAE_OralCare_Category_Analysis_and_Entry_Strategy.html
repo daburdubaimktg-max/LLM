@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UAE — Oral Care Category Deep-Dive &amp; Strategy</title>
+<style>
+  :root{
+    --green-1:#1B5E20; --green-2:#2D7D32; --accent:#F57C00;
+    --ink:#1a1a1a; --muted:#5a5a5a; --line:#e2e2e2; --bg:#ffffff; --soft:#f6f8f6;
+    --amber-bg:#fff3e0; --amber-line:#F57C00;
+  }
+  *{box-sizing:border-box;}
+  body{font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:var(--ink);
+    margin:0;background:var(--bg);line-height:1.55;font-size:15px;}
+  .wrap{max-width:1040px;margin:0 auto;padding:32px 40px;}
+  .cover{background:linear-gradient(135deg,var(--green-1),var(--green-2));color:#fff;
+    padding:56px 40px;border-radius:0 0 6px 6px;}
+  .cover h1{margin:0 0 6px;font-size:30px;letter-spacing:.3px;}
+  .cover .sub{opacity:.92;font-size:16px;}
+  .cover .callout{display:inline-block;margin-top:18px;background:var(--accent);color:#fff;
+    padding:8px 14px;border-radius:4px;font-weight:600;font-size:14px;}
+  .banner{background:var(--amber-bg);border-left:4px solid var(--amber-line);padding:10px 14px;
+    font-size:13px;margin:18px 0;border-radius:3px;}
+  h2{color:var(--green-1);border-bottom:2px solid var(--green-2);padding-bottom:6px;margin-top:38px;
+    font-size:21px;}
+  h3{color:var(--green-2);margin-top:26px;font-size:17px;}
+  .sowhat{background:var(--soft);border-left:3px solid var(--green-2);padding:10px 14px;margin:12px 0;
+    font-size:14px;}
+  table{border-collapse:collapse;width:100%;margin:14px 0;font-size:13px;}
+  th{background:var(--green-1);color:#fff;text-align:left;padding:8px 10px;}
+  td{border:1px solid var(--line);padding:7px 10px;vertical-align:top;}
+  tr:nth-child(even) td{background:#fafbfa;}
+  .tcap{font-size:12.5px;color:var(--muted);margin:14px 0 -8px;font-weight:600;}
+  .chip{display:inline-block;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:600;}
+  .chip.revalidate{background:var(--amber-bg);color:#a85400;border:1px solid var(--amber-line);}
+  .chip.source{background:#eef4ee;color:var(--green-1);}
+  .conf{display:inline-block;min-width:16px;text-align:center;border-radius:3px;font-size:11px;
+    font-weight:700;padding:1px 4px;}
+  .conf.h{background:#e3efe3;color:#1B5E20;} .conf.m{background:#fff3e0;color:#a85400;}
+  .conf.l{background:#fdecea;color:#b3261e;}
+  .bet{background:var(--green-1);color:#fff;padding:16px 18px;border-radius:5px;margin:24px 0;}
+  .bet b{color:var(--accent);}
+  .posmap{position:relative;border:1px solid var(--line);height:380px;margin:16px 0;background:
+    repeating-linear-gradient(0deg,transparent,transparent 59px,#f0f0f0 60px),
+    repeating-linear-gradient(90deg,transparent,transparent 59px,#f0f0f0 60px);}
+  .posmap .axis-x,.posmap .axis-y{position:absolute;font-size:12px;color:var(--muted);font-weight:600;}
+  .posmap .axis-x{bottom:6px;right:10px;} .posmap .axis-y{top:6px;left:8px;}
+  .posmap .brand{position:absolute;transform:translate(-50%,-50%);font-size:12px;background:#fff;
+    border:1px solid var(--green-2);padding:2px 6px;border-radius:3px;}
+  .posmap .open{position:absolute;transform:translate(-50%,-50%);background:var(--accent);color:#fff;
+    padding:4px 8px;border-radius:4px;font-weight:600;font-size:12px;}
+  .toc{font-size:13px;color:var(--muted);margin:10px 0 4px;}
+  .appendix{background:var(--soft);border:1px solid var(--line);padding:14px 18px;border-radius:4px;
+    font-size:13px;white-space:pre-wrap;font-family:Consolas,Menlo,monospace;}
+  footer{margin-top:40px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);
+    font-size:12px;}
+  @media print{
+    .wrap{max-width:none;padding:0 14mm;} .cover{border-radius:0;}
+    h2{page-break-after:avoid;} table,figure,.bet{page-break-inside:avoid;}
+    a{color:inherit;text-decoration:none;}
+  }
+</style>
+</head>
+<body>
+  <div class="cover">
+    <h1>UAE — Oral Care Category Deep-Dive &amp; Strategy</h1>
+    <div class="sub">Dabur India (incumbent-lite) · Category deck 2 of 4 (Oral Care) · 5 July 2026 · Play codename: <b>"MISWAK GOLD"</b> — reclaim the ingredient the MNCs borrowed, at the whitening tier, on the Ramadan clock</div>
+    <div class="callout">DECISION REQUESTED: confirm Oral as the recode conviction play (macro §M11 T24 upheld) — hold the AED 6–9 value fortress AND launch "Miswak Gold" (miswak × whitening/enamel science, AED 18–25, Arabic-first pack) into pharmacy + coops on the Ramadan-2027 clock, plus an alcohol-free miswak rinse fast-follow; fix 3P price governance NOW; release the pharmacy-listing mandate (Life/Aster/BinSina)</div>
+  </div>
+  <div class="wrap">
+    <div class="banner">⚠ PUBLIC DATA — RE-VALIDATE BEFORE BOARD USE. Reads on <b>UAE_MACRO (5 Jul 2026)</b>
+      — five consumer nations, premium runway, RAK supply (GCC-origin, duty-moot), Montaji/MOHAP and
+      Advertiser-Permit gates, T24/T25 verdicts — cited, never repeated. Confidence
+      <span class="conf h">H</span> <span class="conf m">M</span> <span class="conf l">L</span>;
+      <span class="chip revalidate">re-validate</span> cells carry exact queries in §C16. Arabic-expert +
+      MENA-insight lenses applied. Religious-claim discipline: heritage/ingredient framing only — the
+      brand never preaches fiqh.</div>
+
+    <div class="toc"><b>Contents:</b> C1 Executive summary · C2 Market &amp; sub-segments + Claim Ladder ·
+    C3 Competition &amp; positioning · C4 Consumer &amp; culture (incl. Ramadan fiqh map) · C5 Whitespace +
+    DEEP THINK · O1–O6 own-brand read · C6 Sizing · C7 Strategy · GTM playbook (5 teardowns → N-move) ·
+    C8 Creative territories · C9 DEEP STRAT · C10 Validation · C11 Channels &amp; economics · C12 E-com
+    scrape · C13 Ad decode + LEAP · C14 Waterfall · C15 Glossary (25 terms) · C16 Register · C17 MECE ·
+    C18 Risks · Reputation Bet · Appendix: Arabic prompt</div>
+
+    <h2>C1 · Executive summary — the one screen</h2>
+    <div class="sowhat"><b>So what.</b> UAE oral care is a modest US$174M market (+4.2%) with an immodest
+    engine: Dubai is the Hollywood-smile capital (dental tourism +15.25% CAGR, AED 1.4bn in 2024, veneers
+    at AED 1,500–2,800/tooth) — whitening is the category's aspiration layer, and an AED 20 toothpaste is
+    the cheapest ticket into it. Dabur sits in this market with the most culturally-native asset on the
+    shelf — <b>مسواك, the sunnah cleanser itself, RAK-made and duty-free — imprisoned at the AED 6–11/100g
+    value ghetto in ethnic aisles, while Unilever's Signal sells a Herbal Miswak variant in Carrefour's
+    daily-use aisle and Listerine rents the Ramadan breath-care moment with its own alcohol-free Miswak
+    rinse.</b> The ingredient has been validated by the giants; the authentic owner is unpaid. Three more
+    facts complete the case: (1) the fiqh architecture makes miswak the only fasting-safe daytime cleanser
+    — "miswak by day, Dabur Miswak at suhoor/iftar" is routine ownership no rival can claim; (2) karak tea
+    (92.8% of hot-drink spend) plus 24.3% male smoking make stain the daily lived problem beneath the
+    whitening aspiration; (3) Marvis at AED 57 and Sensodyne at AED 20–35 prove the 20× per-ml runway —
+    and the AED 15–25 "modern sunnah-science" tier is empty. MISWAK GOLD is the two-tier answer: hold the
+    value fortress (170g twins at AED 6–9, twin-pack mechanics, 3P price governance fixed), and launch
+    <b>Miswak Gold — miswak × whitening/enamel science at AED 18–25, Arabic-first pack, pharmacy +
+    Union-Coop shelved</b> — with an alcohol-free arak rinse fast-follow, on the Ramadan-2027 clock, told
+    in the heritage-not-religion register («خلاصة الأراك», never fiqh). Ask: pharmacy mandate, price-
+    governance program, Ramadan campaign (AED 0.8–1.5M).</div>
+
+    <p class="tcap">T1 · The play on one screen</p>
+    <table>
+      <tr><th>Element</th><th>Verdict</th></tr>
+      <tr><td>Market</td><td>US$174.3M → $222.3M 2030 (+4.2%); toothpaste largest segment; mouthwash fastest (+6.4%); whitening paste +20% (2024) <span class="chip revalidate">.</span>; dental-tourism halo +15.25%</td></tr>
+      <tr><td>Dabur position</td><td>~4–7% est.; Miswak/Herb'l/Red present but value-ghetto priced (AED 6–11/100g), ethnic-aisle shelved, 3P price chaos (Red +74% on noon; a AED 145 mispriced listing)</td></tr>
+      <tr><td>The theft</td><td>Signal Herbal Miswak (Carrefour daily aisle) + Listerine Total Care Miswak Zero-Alcohol AED 49 (Spinneys) — MNCs monetise the code; nobody owns AED 15–25 sunnah-science</td></tr>
+      <tr><td>The play</td><td>Two tiers: value fortress (twins AED 6–9) + <b>Miswak Gold AED 18–25</b> (whitening/enamel + arak, Arabic-first) at pharmacy/coops + alcohol-free rinse fast-follow</td></tr>
+      <tr><td>Clock</td><td>Ramadan 2027 (8 Feb–Mar) — the khuluf moment + the fasting-safe routine; stick co-pack as authenticity badge</td></tr>
+      <tr><td>Y1 / Y3</td><td>Y1 AED 3–6M incremental net (Gold + rinse); Y3 AED 12–20M + fortress held</td></tr>
+      <tr><td>The ask</td><td>Life/Aster/BinSina listing mandate; MAP/price-governance program; Ramadan budget AED 0.8–1.5M; rinse development (RAK)</td></tr>
+    </table>
+
+    <h2>C2 · Market &amp; sub-segment map + Claim Ladder</h2>
+    <p class="tcap">T2 · Size &amp; growth</p>
+    <table>
+      <tr><th>Measure</th><th>Value</th><th>Source</th><th>Conf.</th></tr>
+      <tr><td>Oral care retail</td><td>US$174.3M (2024) → $222.3M (2030), 4.2%</td><td>Grand View 2025</td><td><span class="conf m">M</span></td></tr>
+      <tr><td>Toothpaste</td><td>Largest + fastest segment (~28% GVR def.; 45.9% MEA def.)</td><td>GVR/Mordor</td><td><span class="conf m">M</span></td></tr>
+      <tr><td>Mouthwash</td><td>Fastest format, ~6.4% CAGR (MEA)</td><td>Mordor 2025</td><td><span class="conf m">M</span></td></tr>
+      <tr><td>Whitening</td><td>UAE whitening → $133M by 2030; whitening paste +20% UAE/Qatar 2024 <span class="chip revalidate">MECSC citation</span>; electric brush $137.6M→$220.3M</td><td>GVR; Markets&amp;Data</td><td><span class="conf l">L</span></td></tr>
+      <tr><td>The clinical halo</td><td>Dental tourism $254M→$597M (15.25%); Dubai AED 1.4bn (2024); veneers AED 1,500–2,800/tooth; private dental $208M (+5.5%); dentist density 0.9/1,000 (world-top)</td><td>TechSci/DHA/Insights10</td><td><span class="conf h">H</span></td></tr>
+      <tr><td>Per-capita</td><td>~AED 60/yr oral spend (derived)</td><td>calc</td><td><span class="conf m">M</span></td></tr>
+    </table>
+
+    <p class="tcap">T3 · Sub-segment grid — size × growth × door × incumbent × verdict</p>
+    <table>
+      <tr><th>Sub-segment</th><th>Growth</th><th>Door</th><th>Incumbents</th><th>Dabur verdict</th></tr>
+      <tr><td>Mass cavity/family paste</td><td>Low</td><td>Held by ladder</td><td>Colgate (every band AED 5–40), Signal, Closeup</td><td><b>DEFEND only</b> — value twins; never fight fluoride science</td></tr>
+      <tr><td>Whitening paste</td><td>High (+20% <span class="chip revalidate">.</span>)</td><td>Open at mid-tier</td><td>Optic White 17–29, Crest, Darlie absent here</td><td><b>ENTER inside Miswak Gold</b> — "arak + enamel-safe whitening" claim stack</td></tr>
+      <tr><td>Sensitivity</td><td>Mid-high</td><td>HCP-gated</td><td>Sensodyne fortress 20–36 (+ 5th Sense experiential)</td><td>Avoid head-on; gum-comfort adjacency only</td></tr>
+      <tr><td><b>Herbal/miswak paste</b></td><td>Mid, ingredient mainstreamed</td><td><b>Open at premium — the theft to reverse</b></td><td>Signal Herbal Miswak ~7–9 (variant), Dabur (floor), Himalaya, Siwak-F (absent mainstream)</td><td><b>ENTER — hero.</b> Miswak Gold AED 18–25: the authentic owner at the modern tier</td></tr>
+      <tr><td><b>Mouthwash (alcohol-free)</b></td><td>Fastest (+6.4%)</td><td>Open — Listerine Miswak proves demand at AED 49/500ml</td><td>Listerine reference; Oradex-class pharmacy</td><td><b>ENTER — fast-follow.</b> Dabur arak rinse zero-alcohol AED 29–39/500ml (RAK-made)</td></tr>
+      <tr><td>Miswak sticks</td><td>Ramadan-spiking</td><td>Commodity (AED 2–5/stick)</td><td>Al Khair/Sewak Al-Falah/Sundus</td><td><b>Co-pack only</b> — vacuum-sealed stick + Gold paste Ramadan duo = authenticity badge + PR engine</td></tr>
+      <tr><td>Premium-design paste</td><td>Niche halo</td><td>Beauty-retail gate</td><td>Marvis 37–57, vVardis</td><td>Watch; an oud-mint "objet" edition only post-Gate as gifting</td></tr>
+      <tr><td>Kids</td><td>Mid (child caries 60.9–83%!)</td><td>School/parent trust</td><td>Colgate kids, Kodomo-class</td><td>Y2 flanker: kids' miswak-fluoride (public-health angle)</td></tr>
+    </table>
+
+
+    <h3>The whitening economy — why an AED 20 tube rides an AED 20,000 aspiration</h3>
+    <p>The Hollywood-smile economy deserves its own decode because it sets the psychological reference
+    prices for the whole category. A full veneer set in Dubai runs AED 18,000–30,000 for eight to ten
+    teeth; E-max singles at AED 1,500–2,800; BNPL providers (Tabby/Tamara) normalise those numbers into
+    monthly instalments for mid-income expats, and reverse dental tourism — Britons flying in because the
+    same set costs AED 7,000–11,000 <i>per tooth</i> in London — keeps the clinics full and the before/after
+    content flowing. Beneath that spectacle sits a much larger population that wants whiter teeth and will
+    never buy a veneer: the karak-and-midwakh mainstream. For them the aspiration cascades down the price
+    ladder — Crest Whitestrips at AED 218, Optic White Pro at AED 40, Optic White at AED 17–29 — and then
+    stops, because below AED 17 "whitening" reads as a flavour, not a promise. Miswak Gold's AED 18–25
+    placement is engineered to be the <b>lowest believable rung of the whitening ladder</b>: high enough to
+    carry the claim, low enough to be an impulse trade-up from a AED 7 tube, and armoured with the one thing
+    the ladder above it lacks — an ingredient story (arak's mechanical-cleaning + antibacterial tradition)
+    that explains WHY it whitens without peroxide anxiety. The claim architecture follows: "enamel-safe
+    whitening" as the headline, the 14-day stain-diary as the proof mechanic, and karak — not Hollywood —
+    as the enemy named in the creative.</p>
+
+    <p class="tcap">T4 · Claim Ladder (GSO 1943 / Montaji / Media Council; macro §M7 T14)</p>
+    <table>
+      <tr><th>Rung</th><th>Allowed</th><th>Gated / banned</th><th>MISWAK GOLD application</th></tr>
+      <tr><td>Cosmetic paste</td><td>Fluoride ≤1,500ppm; "healthy gums, fresh breath" (Dabur's own verified copy); stain-removal/whitening (non-peroxide)</td><td>H₂O₂ &gt;0.1% = professional-only; therapeutic cure/treat → MOHAP</td><td>Gold = cosmetic lane, Montaji ~22 days; whitening claim via polishing/enamel-safe chemistry</td></tr>
+      <tr><td>Sensitivity wording</td><td>"Relief for sensitive teeth" sensorial framing (Sensodyne's mass listing proves)</td><td>Clinical treatment language</td><td>Gum-comfort support claims only</td></tr>
+      <tr><td>Miswak/religion</td><td>Heritage/ingredient: «خلاصة الأراك» "Al-Arak extract", "the natural tradition" (Signal/Listerine precedent)</td><td><b>Explicit sunnah-reward religious endorsement = high-risk (Media Council AED 100k–1M); no MNC does it</b></td><td>Brand speaks arak-science; creators (permitted, disclosed) carry the sunnah conversation organically</td></tr>
+      <tr><td>Mouthwash</td><td>Zero-alcohol as norm; "Shariah-compliant" flagging seen at retail</td><td>Therapeutic antiseptic claims → MOHAP</td><td>Rinse launches cosmetic-grade; halal mark (GSO 2055-4) once certified</td></tr>
+      <tr><td>Ads/KOL</td><td>—</td><td>Advertiser Permit mandatory (incl. gifted); creators co-liable for health claims (2025 prosecution precedent)</td><td>Permit-verified roster; hygiene-grade claims in all briefs</td></tr>
+    </table>
+
+    <h2>C3 · Competition — the ladder, the flankers, and the theft</h2>
+    <p class="tcap">T5 · Competitor grid</p>
+    <table>
+      <tr><th>Brand (owner)</th><th>Price AED/~100g</th><th>Positioning / defense</th><th>Share est. <span class="chip revalidate">Euromonitor</span></th></tr>
+      <tr><td>Colgate (C-P; Dammam JV with Olayan since 1990)</td><td>5–11 core → Optic White 17–29 → Pro 40+</td><td>The full price ladder + GCC manufacturing moat + «ارتقِ إلى كولجيت توتال» upgrade engine; UAE #1</td><td>25–30%</td></tr>
+      <tr><td>Sensodyne (Haleon)</td><td>25–36</td><td>Dentist-recommendation machine in world-top dentist density; "5th Sense" experiential (LEAP 31/40)</td><td>12–18%</td></tr>
+      <tr><td>Signal (Unilever)</td><td>~7–12</td><td>«كل ابتسامة مهمة»; mass family; <b>Herbal Miswak 120ml variant in Carrefour daily aisle — the code theft</b></td><td>10–15%</td></tr>
+      <tr><td>Closeup (Unilever)</td><td>~3–8</td><td>«الأقرب أحلى» youth freshness; multipack economics</td><td>5–8%</td></tr>
+      <tr><td>Oral-B/Crest (P&amp;G)</td><td>Paste 20–38; Whitestrips 218.50</td><td>Whitening authority + electric-brush leadership</td><td>paste ~5%</td></tr>
+      <tr><td>Parodontax (Haleon)</td><td>24.3–29</td><td>Gum therapeutic tier</td><td>3–5%</td></tr>
+      <tr><td><b>Dabur (Miswak/Herb'l/Red)</b></td><td><b>6–11</b> (Union Coop 190g+brush at 6.00)</td><td>Authentic arak owner; «لثة صحية ونفس منعش»; RAK-made; value-ghetto shelved; 3P chaos (Red 6.90 Lulu vs 12.00 noon; one listing at 145)</td><td>4–7%</td></tr>
+      <tr><td>Listerine (Kenvue)</td><td>Rinse ~33.60/500ml; <b>Miswak Zero-Alcohol 49</b></td><td>Mouthwash reference + <b>the Ramadan squatter</b> (Arabic fasting-breath hub + Miswak SKU)</td><td>mouthwash leader</td></tr>
+      <tr><td>Marvis · Median · Himalaya</td><td>37–57 · 9.90 · n/a <span class="chip revalidate">.</span></td><td>Objet-premium proof · K-spillover · herbal rival (Dubai FZCO)</td><td>tail</td></tr>
+      <tr><td>Stick sellers (Al Khair, Sewak Al-Falah, Sundus)</td><td>1.75–5/stick</td><td>«لتبييض الأسنان واتباع السنة» — religion+eco+whitening in one line; mosque-adjacent + marketplace</td><td>commodity niche</td></tr>
+    </table>
+
+    <h3>Positioning space — price/100g × sunnah-heritage authenticity</h3>
+    <div class="posmap">
+      <span class="axis-y">↑ Price per 100g</span><span class="axis-x">Miswak/sunnah-heritage authenticity →</span>
+      <span class="brand" style="left:10%;top:14%">Marvis (objet)</span>
+      <span class="brand" style="left:12%;top:30%">Sensodyne · Parodontax · Oral-B</span>
+      <span class="brand" style="left:16%;top:44%">Colgate Optic White</span>
+      <span class="brand" style="left:40%;top:26%"><b>Listerine Miswak rinse (renting the code)</b></span>
+      <span class="brand" style="left:14%;top:66%">Colgate core · Closeup</span>
+      <span class="brand" style="left:46%;top:60%"><b>Signal Herbal Miswak (the flanker)</b></span>
+      <span class="brand" style="left:72%;top:78%"><b>Dabur Miswak (authentic owner, floor-priced)</b></span>
+      <span class="brand" style="left:88%;top:64%">Miswak sticks (commodity sunnah)</span>
+      <span class="open" style="left:72%;top:32%">OPEN: sunnah-science whitening AED 18–25 — MISWAK GOLD</span>
+    </div>
+    <p><b>Second-order:</b> Signal's response to Gold is a premium miswak variant — but Unilever won't
+    out-authenticate the brand named Miswak; expect price-promo pressure instead (hold price integrity).
+    Listerine's rinse actually <i>helps</i> — it educates the alcohol-free arak benefit our rinse
+    fast-follows at −30% price. Colgate ignores anything below AED 50M revenue. The real race is time:
+    every Ramadan that passes, the MNCs' miswak variants normalise further.</p>
+
+
+    <h3>The value fortress — why defense is half this deck</h3>
+    <p>The recode only works if the base holds, and the base is under two kinds of pressure worth naming
+    precisely. The first is competitive: Signal's Herbal Miswak variant sits at AED 7–9 in Carrefour's
+    daily-use aisle — squarely on top of Dabur's price band, with Unilever's distribution muscle behind it.
+    Every quarter that variant normalises, Dabur's "authentic arak" differentiation erodes into a flavour
+    war it cannot win on trade terms. The defensive answer is not price (Union Coop's AED 6.00 anchor with
+    a free toothbrush already sits at the floor) but <b>claim escalation on the value pack itself</b>: the
+    «مستخلصات الأراك النقية» purity line, arak-percentage callouts, and the "original since" date belong on
+    the AED 6 tube too, so the fortress and the Gold tier tell one continuous story at two prices. The
+    second pressure is self-inflicted: marketplace price chaos. The scrape found Dabur Red at a 74% spread
+    between Lulu (6.90) and a noon 3P listing (12.00), and a rogue Miswak listing at AED 145 — noise that
+    trains shoppers to distrust every Dabur price and would fatally undermine a premium launch. The MAP and
+    authorised-seller program is therefore sequenced BEFORE Gold ships, not alongside it: clean the price
+    floor, then build the ladder on it. Both moves cost little; both are preconditions for everything else
+    in this deck.</p>
+
+    <h2>C4 · Consumer &amp; culture — need-states, cohorts, the Ramadan fiqh map</h2>
+    <p class="tcap">T6 · Need-states — clinical reality vs purchased aspiration</p>
+    <table>
+      <tr><th>Need-state</th><th>Evidence</th><th>MISWAK GOLD lane</th></tr>
+      <tr><td><b>Whitening/stain (the aspiration)</b></td><td>Hollywood-smile culture; veneers AED 1.5–2.8k/tooth; whitening paste +20%; karak tea = 92.8% of hot-drink spend (6.1kg/capita) + 24.3% male smoking (midwakh 15%, shisha 6.8%) = the daily stain engine</td><td><b>Hero claim: "karak-proof white" — arak + enamel-safe whitening</b></td></tr>
+      <tr><td><b>Ramadan khuluf (fasting breath)</b></td><td>#1 seasonal anxiety; Listerine runs the content hub; fiqh: miswak = fasting-safe sunnah, paste cautioned by day</td><td>The routine ownership play (T7); rinse for iftar-to-suhoor window</td></tr>
+      <tr><td>Gum health (gusi/لثة)</td><td>Perio = 20% of DHA treatments; Dabur's verified copy already says «لثة صحية»</td><td>Support claim continuity from the value line</td></tr>
+      <tr><td>Sensitivity</td><td>27% of Emirati patients; Sensodyne fortress</td><td>Adjacent comfort language only</td></tr>
+      <tr><td>Kids' caries (public-health flag)</td><td>60.9% schoolchildren; 74–83% at age 4–5; Emirati kids worse than expat</td><td>Y2 kids' miswak-fluoride flanker with school-program angle</td></tr>
+    </table>
+
+    <p class="tcap">T7 · The Ramadan fiqh map — the unowned routine (UAE edition)</p>
+    <table>
+      <tr><th>Ruling / practice</th><th>Position</th><th>Commercial consequence</th></tr>
+      <tr><td>Miswak while fasting</td><td>Sunnah, unrestricted (IslamQA #108014; Gulf mainstream)</td><td>The stick is the fasting-safe daytime cleanser</td></tr>
+      <tr><td>Toothpaste while fasting</td><td>Doesn't break the fast if not swallowed; cautioned/makruh-leaning by day in Gulf readings → norm = brush at suhoor/iftar</td><td>The paste owns the bookends; UAE Awqaf text = gap <span class="chip revalidate">awqaf.gov.ae in-country</span></td></tr>
+      <tr><td>Gargling while fasting</td><td>Cautioned</td><td>Rinse marketing = iftar-to-suhoor window (Listerine already frames this)</td></tr>
+      <tr><td><b>The structural gift</b></td><td colspan="2"><b>Dabur Miswak is the only mass paste whose hero ingredient is itself the fasting-safe cleanser — "miswak by day, Miswak Gold at suhoor &amp; iftar" is a complete, fiqh-compliant routine no rival can claim.</b> Brand sells the routine + the arak science; permitted creators carry the sunnah conversation</td></tr>
+    </table>
+
+    <p class="tcap">T8 · Cohort × occasion map (macro five nations)</p>
+    <table>
+      <tr><th>Cohort</th><th>Oral code</th><th>MISWAK GOLD door</th></tr>
+      <tr><td>Emirati</td><td>Native miswak literacy; premium whitening/veneer culture; Arabic-first; child-caries concern</td><td>Gold at Union Coop/BinSina; «أراك» heritage-science copy; Ramadan hero + Eid gifting duo</td></tr>
+      <tr><td>South Asian (~62%)</td><td>Red/Meswak home loyalty; uninsured for dental ("the tube is the dentist"); twin-pack value</td><td>FORTRESS: twins AED 6–9 held; Gold as Diwali/aspiration upgrade for professionals</td></tr>
+      <tr><td>Arab expat</td><td>Fiqh-aware; karak+shisha stain; MSA media</td><td>Khuluf-confidence Ramadan campaign; rinse</td></tr>
+      <tr><td>Filipino</td><td>Colgate-loyal mint benchmark</td><td>Freshness-forward Gold variant; promo trial</td></tr>
+      <tr><td>Western</td><td>Natural/SLS-free trend</td><td>"Ancient toothbrush tree" story at pharmacy/organic shelf</td></tr>
+    </table>
+
+    <h2>C5 · Whitespace — pressure-tested (condensed DEEP THINK)</h2>
+    <p class="tcap">T9 · DEEP THINK on the lead bet</p>
+    <table>
+      <tr><th>Lens</th><th>Read</th></tr>
+      <tr><td><b>H1</b></td><td><b>Miswak Gold (arak × enamel-safe whitening, AED 18–25, Arabic-first) + zero-alcohol arak rinse reclaims the miswak code at the modern tier, Ramadan-2027-clocked, pharmacy-shelved</b></td></tr>
+      <tr><td>Not considering?</td><td>(a) "Gold" sub-line already exists on noon (3-pack) — audit and fold in, don't duplicate; (b) cannibalisation of value line — different tiers/shelves, and upgrade beats leakage to Signal; (c) Sensodyne's 5th-Sense class spend — we don't out-spend, we out-authenticate + out-Pull (their Pull=6)</td></tr>
+      <tr><td>RIGHT question</td><td>Not "can Dabur sell premium toothpaste?" but "can the authentic miswak owner take back a code the MNCs have already priced at AED 9 (Signal) and AED 49 (Listerine) — by standing between them?"</td></tr>
+      <tr><td>Skeptic</td><td>"AED 3–6M Y1 is rounding error." True standalone — but oral shares the OTC pharmacy program (same Life/Aster calls), owns the portfolio's best Ramadan story, and defends the fortress from Signal's flanker</td></tr>
+      <tr><td>Customer</td><td>Emirati dad, 38, karak daily: «معجون يبيّض بدون ما يخرب المينا — وأراك حقيقي مو نكهة» ("whitens without wrecking enamel — and real arak, not a flavour")</td></tr>
+      <tr><td>Competitor</td><td>Signal reads Gold as niche until pharmacy rank moves; their promo response hits the value tier — which twin-pack mechanics already defend</td></tr>
+      <tr><td>Destroy→rebuild</td><td>Kill if Gold panel shows whitening-claim disbelief vs Optic White — rebuild as "Gum &amp; Breath Pro" (gum-first) with whitening as secondary</td></tr>
+      <tr><td>3 words · status</td><td><b>"Take it back."</b> · PROCEED, gated (T12)</td></tr>
+    </table>
+
+    <h2>O1–O6 · Own-brand read — oral (UAE)</h2>
+    <p class="tcap">T10 · Position audit</p>
+    <table>
+      <tr><th>Lens</th><th>Read</th></tr>
+      <tr><td>O1–O2</td><td>Awareness native in 2 cohorts (Emirati literacy + South Asian loyalty); availability wide (Union Coop 6.00! · Lulu 120g · Amazon/noon official) but ethnic-aisle coded; Miswak Gold 3-pack already on noon (un-marketed)</td></tr>
+      <tr><td>O3</td><td>Steady value velocity; counts geo-blocked <span class="chip revalidate">.</span></td></tr>
+      <tr><td>O4</td><td>Own copy verified («مستخلصات الأراك النقية») — the arak-purity equity exists on-pack, un-amplified; Arab-corpus reviews thin → Appendix</td></tr>
+      <tr><td>O5</td><td>"Herbal value import" — band placement is the positioning; <b>3P price chaos actively damages it</b> (Red 74% spread; AED 145 rogue listing)</td></tr>
+      <tr><td>O6</td><td>White space = the AED 15–25 sunnah-science tier + the Ramadan routine + the alcohol-free rinse Dabur doesn't yet sell</td></tr>
+    </table>
+
+    <h2>C6 · Sizing the prize</h2>
+    <p class="tcap">T11 · TAM/SAM/SOM + ledger</p>
+    <table>
+      <tr><th>Layer</th><th>Value</th><th>Basis</th></tr>
+      <tr><td>TAM</td><td>US$174M (AED ~640M)</td><td>GVR <span class="conf m">M</span></td></tr>
+      <tr><td>SAM</td><td><b>AED 140–200M</b> — herbal/whitening mid-tier paste + alcohol-free rinse + Ramadan gifting</td><td>Segment estimates <span class="conf l">L</span></td></tr>
+      <tr><td>SOM Y1</td><td><b>AED 3–6M incremental</b> (Gold 250–400k units + rinse 60–120k + co-packs)</td><td>Assumes 350+ pharmacy doors by Ramadan, coop listings, ≥4.4★</td></tr>
+      <tr><td>SOM Y3</td><td><b>AED 12–20M incremental</b> + fortress held</td><td>2 more GCC-ready SKUs; kids' flanker; KSA brief unpriced upside</td></tr>
+      <tr><td>Sensitivities</td><td colspan="2">Pharmacy door count (Life alone = 600+ macro; 300+ conservative here <span class="chip revalidate">.</span>) · whitening-claim believability (V2) · Ramadan timing · Signal promo response</td></tr>
+    </table>
+
+
+    <p>One more sizing cross-check grounds the ambition. The Ramadan-window target of 180,000 units across
+    Gold, rinse and co-packs equals roughly one unit per sixty Muslim-household shopping trips in the
+    six-week window — conservative against the category's documented Ramadan intensity (Listerine maintains
+    a permanent Arabic content hub for exactly this month, and stick sellers build their whole year around
+    it). The Y3 band of AED 12–20M implies Dabur roughly doubling its estimated oral share from ~4–7% to
+    ~8–11% of a growing market — ambitious but anchored: it requires winning back only a fraction of the
+    shoppers currently paying Signal AED 7–9 for the miswak word without the miswak brand, plus a rinse
+    business that is today a straight zero. Nothing in the plan requires beating Colgate anywhere.</p>
+
+    <h2>C7 · Recommended strategy — hold, take back, fast-follow</h2>
+    <p class="tcap">T12 · Waves + gates</p>
+    <table>
+      <tr><th>Wave</th><th>Moves</th><th>Timing / gate</th></tr>
+      <tr><td><b>W-D — defend + govern</b></td><td>Twin-pack mechanics held at hyper/coops; <b>MAP + authorised-seller program kills 3P chaos</b> (Red spread, rogue listings); q-com hero pitch (Miswak 170g into Talabat/noon-Minutes); fold existing noon "Gold" 3-pack into the new line architecture</td><td>Now; governance KPIs monthly</td></tr>
+      <tr><td><b>W-1 — MISWAK GOLD launch</b></td><td>Gold paste (arak × enamel-safe whitening) AED 18–25 Arabic-first pack; Montaji filings; Life/Aster/BinSina listings + Union Coop; Diwali soft-launch to South Asian professionals; stick co-pack production (vacuum-sealed, Al-Falah-grade)</td><td>Sep–Nov 2026 → <b>Gate-O1 (Dec): ≥60k Gold units + ≥250 pharmacy doors committed → release Ramadan budget; miss → gum-first reposition</b></td></tr>
+      <tr><td><b>W-1.5 — the Ramadan play</b></td><td>Khuluf-confidence campaign («نفس واثق من السحور للإفطار» draft); paste+stick co-pack hero; <b>zero-alcohol arak rinse launches</b> AED 29–39/500ml (vs Listerine Miswak 49); permitted-creator sunnah lane (organic, disclosed); coop gondolas + pharmacy endcaps</td><td>Jan–Mar 2027 (Ramadan 8 Feb) → <b>Gate-O2 (Apr): ≥180k Ramadan-window units incl. ≥40k rinse → W-2; miss → rinse holds, Gold continues as pharmacy-only</b></td></tr>
+      <tr><td><b>W-2 — extensions</b></td><td>Kids' miswak-fluoride (school/public-health angle on 60.9% caries); oud-mint gifting edition (Marvis-class objet, Eid); KSA replication brief; Hajj/Umrah travel-retail co-packs</td><td>Post-Gate-O2</td></tr>
+    </table>
+
+
+    <p class="tcap">T12b · Channel-by-channel launch playbook (Gold + rinse)</p>
+    <table>
+      <tr><th>Channel</th><th>Entry mechanics</th><th>Success metric (by Gate-O2)</th></tr>
+      <tr><td>Life Pharmacy (300–600+ doors)</td><td>Distributor-led listing; "herbal whitening" planogram slot beside Parodontax, NOT beside value pastes; pharmacist one-pager (arak evidence summary); endcap in Ramadan window</td><td>≥250 doors; 2+ units/door/week post-Ramadan</td></tr>
+      <tr><td>Aster (200+) + BinSina (~150)</td><td>Aster's Indian-clinic ecosystem = natural gum-health scripts; BinSina = Emirati trust shelf for the Arabic-first pack</td><td>≥120 combined doors</td></tr>
+      <tr><td>Union Coop + sister coops</td><td>The Emirati-household gateway (macro §M6); Gold single-facing next to the existing 6.00 value anchor — the ladder made visible on one shelf</td><td>All Union branches; Ramadan gondola participation</td></tr>
+      <tr><td>noon + Amazon.ae</td><td>Official-store Gold flagship; subscribe-&amp;-save on rinse; A+ content with the «الأصل» story; review-seeding via permitted micro-creators</td><td>≥4.4★ at ≥300 reviews combined; «معجون مسواك» organic rank #1</td></tr>
+      <tr><td>Q-commerce (Talabat/noon Minutes)</td><td>Value 170g stays the q-com hero (their shopper is replenishment); Gold enters only after pharmacy proof</td><td>Value SKU in 2 platforms' default assortment</td></tr>
+      <tr><td>Baqala/Islamic retail</td><td>Stick co-packs via Deira wholesale for Ramadan; no Gold (price integrity)</td><td>Co-pack sell-in 40k units</td></tr>
+    </table>
+
+    <h2>GTM playbook — teardowns → N-move</h2>
+    <p class="tcap">T13 · Teardowns</p>
+    <table>
+      <tr><th>Winner</th><th>Route</th><th>ONE move</th><th>Copy / avoid</th></tr>
+      <tr><td>Colgate</td><td>1990 Dammam JV (Olayan) → GCC duty-free + 35yrs dentist sampling; full price ladder</td><td>In-region manufacturing JV with royal-adjacent family</td><td>COPY: ladder logic (value→Gold). AVOID: fluoride-science ground</td></tr>
+      <tr><td>Sensodyne</td><td>Pharmacy-first + dentist detailing in 0.9/1,000 density; 5th-Sense pod experiential</td><td>Symptom → diagnosed condition → chairside handoff (2–3× price/ml)</td><td>COPY: pharmacist scripts for gum/stain via Indian/Pak-staffed clinics. AVOID: therapeutic claims sans MOHAP</td></tr>
+      <tr><td>Signal</td><td>Mass family + Ramadan mega-advertiser history; absorbed miswak as a variant</td><td>Absorb the traditional ingredient into modern format/price — neutralise heritage brands</td><td>COPY: Ramadan media timing (book Q1 early). AVOID: letting the variant own OUR word another year</td></tr>
+      <tr><td>Sewak Al-Falah / Al Khair</td><td>Vacuum-sealed sticks; haj/umrah + mosque-adjacent + marketplace</td><td>Hygiene innovation turned a twig into branded giftable FMCG</td><td>COPY: the sealed stick INTO our co-pack. AVOID: out-piousing natives — arak-science lane only</td></tr>
+      <tr><td>Marvis</td><td>Ounass/beauty-retail at AED 57</td><td>Changed the channel to change the reference price</td><td>COPY: gifting/objet edition W-2. AVOID: premium into hypermarket shelf</td></tr>
+    </table>
+    <p class="tcap">T14 · N-move synthesis (+ unique move)</p>
+    <table>
+      <tr><th>#</th><th>Move</th><th>Execution</th></tr>
+      <tr><td>1</td><td>Govern price before premiumising</td><td>MAP/authorised-seller cleanup — a premium claim dies next to a rogue AED 145 listing</td></tr>
+      <tr><td>2</td><td>Ladder, don't leap</td><td>Value twins → Gold 18–25 → objet gifting; each rung visible from the last</td></tr>
+      <tr><td>3</td><td>Channel = reference price</td><td>Gold launches pharmacy/coop, NEVER hypermarket-first</td></tr>
+      <tr><td>4</td><td>Ritual before science, science on pack</td><td>Routine ownership (suhoor/iftar/day) fronted; arak-actives + enamel data on pack</td></tr>
+      <tr><td>5</td><td>Own the calendar moment the squatter rents</td><td>Ramadan khuluf-confidence — Listerine rents it with one SKU; we live there</td></tr>
+      <tr><td>6</td><td>Authenticity artifact</td><td>The sealed stick co-pack — no MNC can credibly bundle it</td></tr>
+      <tr><td><b>7 (unique)</b></td><td><b>Be the noun</b></td><td>Signal sells "herbal miswak flavour"; Listerine sells "Miswak variant"; <b>Dabur IS Miswak</b> — say it: «الأصل» (the original)</td></tr>
+    </table>
+
+    <h2>C8 · Creative territories — LEAP logic</h2>
+    <p class="tcap">T15 · Territories</p>
+    <table>
+      <tr><th>Territory</th><th>Cohort/clock</th><th>Core idea (draft — native screen required)</th><th>LEAP logic</th></tr>
+      <tr><td><b>1 · «الأصل» (The Original)</b></td><td>All · always-on</td><td>Everyone added miswak. We started with it. Draft: «الكل أضاف المسواك. نحن بدأنا به.»</td><td>L: names the theft everyone half-knows. E: pride + justice narrative. A: 140-yr arak equity + RAK provenance. P: "original vs flavour" comparison content</td></tr>
+      <tr><td><b>2 · «نفس واثق» (Confident Breath)</b></td><td>Fasting Muslims · Ramadan</td><td>From suhoor to iftar — the routine that respects the fast. Stick by day, Gold at the bookends, rinse at night</td><td>L: the khuluf anxiety named with dignity. E: relief + observance-respect. A: the only complete fiqh-compatible system. P: #روتين_رمضان creator duets (permitted roster)</td></tr>
+      <tr><td><b>3 · "Karak-Proof"</b></td><td>Karak nation (all cohorts) · always-on</td><td>Your third karak of the day called. Draft: «كرك بدون قلق» ("karak without worry") — enamel-safe whitening for the daily stain</td><td>L: humour on a universal habit. E: head (stain science) + smile. A: whitening claim grounded in daily life not Hollywood. P: karak-counter UGC (cups today?)</td></tr>
+    </table>
+
+
+    <h3>The stick co-pack — economics of an authenticity artifact</h3>
+    <p>The paste-plus-stick Ramadan co-pack deserves a paragraph of its own because it is the play's most
+    asymmetric weapon. A vacuum-sealed Salvadora persica stick costs AED 1.8–2.5 at wholesale (Al Khair's
+    36-box implies ~AED 2.50/stick retail-side; a licensed supply agreement lands lower) — a trivial COGS
+    add that transforms the product's meaning: the tube becomes the modern half of a complete, fiqh-
+    compatible Ramadan routine, and the stick becomes proof that Dabur is the original, not another
+    flavour. No MNC can credibly bundle it: Signal shipping raw miswak sticks would read as costume;
+    Listerine cannot put a twig in a rinse carton. Priced at AED 24.90, the co-pack carries Gold-tier
+    margin, gives retailers a Ramadan-gondola hero with built-in storytelling, gives creators an unboxing
+    artifact, and doubles as the Hajj/Umrah travel-retail SKU in W-2. The QC risks are real (natural-
+    product variance, sealing integrity, shelf-life) — hence the licensed-supplier route (T24 mode D)
+    with incoming-batch inspection rather than in-house stick processing.</p>
+
+    <h2>C9 · DEEP STRAT (condensed) · C10 Validation</h2>
+    <p class="tcap">T16 · Personas · assumptions · blind spots · checklist</p>
+    <table>
+      <tr><th>Block</th><th>Content</th></tr>
+      <tr><td>Personas</td><td>Skeptic: "toothpaste is a traffic category — margin mirage" → Gold's pharmacy stack nets 8.5–9.5 ex-factory vs 4.5–5 cost; the pool is real. Champion: "we own the noun; this is brand justice with a P&amp;L." End user (Emirati mum): "real arak + whitening + not haram-questionable = my family tube upgrade." Convergence: believability of whitening claim = the one make-or-break</td></tr>
+      <tr><td>Assumption audit</td><td><b>HIGH:</b> whitening-claim believability vs Optic White (V2 panel); Ramadan-2027 timing held. <b>MID:</b> pharmacy listing velocity (350+ doors); Signal promo response contained; rinse formulation ready (RAK line). <b>LOW:</b> value-fortress stability (Union Coop 6.00 anchor)</td></tr>
+      <tr><td>Blind spots</td><td>Cool-vs-needed: the stick co-pack is cool; the NEEDED thing is visible whitening in 14 days. Wrong-user: don't build for the pious-content bubble — the karak-drinking secular majority is the volume. Payoff: AED 12–20M Y3 + the pharmacy relationships OTC inherits. Inversion: launch Gold in hypermarket at 30% off with fiqh copy = guaranteed death; plan does opposite. Second-order: Gold's success invites a Signal "Miswak Gold" clone — trademark watch + «الأصل» equity is the moat</td></tr>
+      <tr><td>Validation (V1–V6)</td><td>V1 MAP cleanup feasibility (authorised-seller audit); V2 whitening believability panel (60-user, Emirati+Arab+South Asian); V3 Gold price laddering (Van Westendorp 18/22/25); V4 rinse vs Listerine Miswak blind test; V5 pharmacy terms (Life/Aster/BinSina); V6 Awqaf fatwa text + religious-sensitivity screen (Arabic-expert sign-off)</td></tr>
+    </table>
+
+    <h2>C11 · Channels &amp; economics · C12 E-com scrape</h2>
+    <p class="tcap">T17 · Saliency + margins</p>
+    <table>
+      <tr><th>Channel</th><th>% oral (est. <span class="chip revalidate">.</span>)</th><th>Margin</th><th>Role</th></tr>
+      <tr><td>Hyper/super + coops</td><td>45–55%</td><td>MT 25–40% GM (toothpaste lower-middle band)</td><td>Fortress home; Gold at coops only (Emirati gateway)</td></tr>
+      <tr><td>Pharmacy (Life 300–600+, BinSina ~150, Aster)</td><td>15–20%</td><td>30–45% top-of-band</td><td><b>Gold's launch shelf</b> — Sensodyne's fortress is the recode's neighbourhood</td></tr>
+      <tr><td>E-com (amazon 8/15% split; noon 18–35% all-in)</td><td>10–15% rising</td><td>—</td><td>Twin-packs + Gold flagship + rinse subscriptions</td></tr>
+      <tr><td>Baqala + Islamic/specialty</td><td>10–15% + &lt;5%</td><td>—</td><td>Sticks/singles; Ramadan gifting</td></tr>
+      <tr><td>Q-commerce</td><td>emergent</td><td>buy-in model</td><td>Miswak 170g hero pitch (default = Colgate+Sensodyne today)</td></tr>
+    </table>
+    <p class="tcap">T18 · Scrape matrix (AED, Jul 2026; ratings blocked <span class="chip revalidate">in-country</span>)</p>
+    <table>
+      <tr><th>#</th><th>SKU</th><th>AED</th><th>Venue · note</th></tr>
+      <tr><td>1</td><td>Dabur Miswak 190g + brush</td><td><b>6.00</b></td><td>Union Coop — the value anchor</td></tr>
+      <tr><td>2</td><td>Dabur Miswak 170g (120+50g)</td><td>~7–10; list ~18 w/ deep promo</td><td>Amazon/noon official+3P</td></tr>
+      <tr><td>3</td><td>Dabur Red 200g</td><td>6.90 Lulu / <b>12.00 noon (+74%)</b></td><td>The governance failure exhibit</td></tr>
+      <tr><td>4</td><td>Dabur Herb'l 4×100g</td><td>from 9.35</td><td>Deep-value multipack</td></tr>
+      <tr><td>5</td><td>Signal Cavity Fighter · Herbal Miswak 120ml</td><td>7.10 · ~7–9</td><td>The flanker on our code</td></tr>
+      <tr><td>6</td><td>Colgate Total 100ml · Optic White range</td><td>10.95 · 16.80–28.88</td><td>The ladder</td></tr>
+      <tr><td>7</td><td>Sensodyne 75ml · Parodontax 75ml</td><td>20–35 · 24.3–29</td><td>Pharmacy premium corridor</td></tr>
+      <tr><td>8</td><td>Oral-B Gum&amp;Enamel · Crest Whitestrips 28s</td><td>34–38 · 218.50</td><td>Therapeutic top · clinic-adjacent</td></tr>
+      <tr><td>9</td><td>Marvis 85ml</td><td>37–57</td><td>Objet ceiling (Ounass)</td></tr>
+      <tr><td>10</td><td>Listerine 500ml · <b>Miswak Zero-Alcohol 500ml</b></td><td>~33.60 · <b>49</b></td><td>The rinse target: ours at 29–39</td></tr>
+      <tr><td>11</td><td>Al Khair sticks 12-pc/36-box</td><td>21 / 90</td><td>Co-pack component economics (~1.75–2.50/stick)</td></tr>
+      <tr><td>12</td><td>Median K-paste 120g</td><td>9.90</td><td>K-spillover tail</td></tr>
+    </table>
+
+    <h2>C13 · Ad decode + LEAP</h2>
+    <p class="tcap">T19 · Verified Arabic copy decode</p>
+    <table>
+      <tr><th>Brand</th><th>Line (Arabic)</th><th>Translation · essence</th></tr>
+      <tr><td>Colgate</td><td>«ارتقِ إلى كولجيت توتال» · «حماية فعالة وبياض متطور»</td><td>"Upgrade to Total" · "effective protection, advanced whiteness" — the upgrade engine + whitening pairing</td></tr>
+      <tr><td>Sensodyne</td><td>«العلامة الموصى بها من أطباء الأسنان»</td><td>"The brand dentists recommend" — authority borrowed from the world's densest dentist market</td></tr>
+      <tr><td>Signal</td><td>«كل ابتسامة مهمة»</td><td>"Every smile matters" — inclusive-family warmth over ingredient claims</td></tr>
+      <tr><td>Closeup</td><td>«الأقرب أحلى»</td><td>"Closer is sweeter" — youth intimacy, still meme-alive</td></tr>
+      <tr><td>Listerine (Ramadan hub)</td><td>«كيفية تجنب رائحة الفم الكريهة خلال رمضان؟» → ليسترين مسواك</td><td>Owns the QUESTION of the season and answers with a Miswak SKU — the rented moment</td></tr>
+      <tr><td><b>Dabur (own)</b></td><td>«مركب من مستخلصات الأراك النقية — لثة صحية ونفس منعش»</td><td>"Pure arak extracts — healthy gums, fresh breath" — the equity exists, un-amplified, priced at 6 dirhams</td></tr>
+      <tr><td>Stick sellers</td><td>«لتبييض الأسنان واتباع السنة»</td><td>"Whitening + following the Sunnah" — the market already fuses the two claims Gold formalises</td></tr>
+    </table>
+
+    <h3>Campaign decode 2024–26 — what the category teaches</h3>
+    <p>Three campaign lessons shape the creative plan. <b>First, experiential beats interruption in this
+    market:</b> Sensodyne's 5th-Sense pod earned national press for a toothpaste by building a two-minute
+    sensory theatre — but scored weak on participation (no UGC loop, no Arabic hashtag), which is precisely
+    the lens where a challenger with better stories and smaller budgets wins. <b>Second, the Ramadan moment
+    is occupied by a renter, not an owner:</b> Listerine's Arabic fasting-breath hub answers the season's
+    biggest oral-care question and hands the shopper a Miswak-branded rinse — but Listerine cannot claim
+    the stick, the suhoor-iftar paste routine, or the heritage; it monetises the moment without living in
+    it. Colgate, tellingly, runs generic smile-equity and trade multipacks through Ramadan rather than
+    faith-adjacent creative — the giants treat the season as a promo window, leaving the cultural core
+    unclaimed. <b>Third, the sunnah conversation is already commercial — just unbranded:</b> Gulf TikTok's
+    سواك lane (how-to-choose, how-to-cut, #مسواك_رمضان) and stick sellers' own copy («لتبييض الأسنان واتباع
+    السنة») prove consumers happily fuse whitening and sunnah in one sentence. The brand that formalises
+    that fusion — with the discipline of never preaching in its own voice — collects a conversation that
+    already exists. That is MISWAK GOLD's media plan in one line: fund the tellers, own the shelf,
+    let the ritual speak.</p>
+
+
+    <p>Two register notes complete the decode. The category's Arabic runs in Modern Standard with
+    occasional Khaleeji warmth — Dabur's own listings are pure MSA product-copy, functional but voiceless;
+    the opportunity is a recognisable brand voice in the space between Colgate's corporate MSA and the
+    stick-sellers' folk register. And the one line Dabur must never write is the one the stick-sellers use
+    freely: the sunnah-reward promise. They can say it because they are small and native; a foreign
+    corporation making religious-merit claims invites both Media Council action (AED 100k–1M exposure) and
+    cultural backlash. The discipline holds even when engagement metrics tempt otherwise — the brand says
+    «الأصل» and «خلاصة الأراك»; the ummah says the rest.</p>
+
+    <p class="tcap">T20 · LEAP — benchmark: Sensodyne "5th Sense" pod (UAE 2025)</p>
+    <table>
+      <tr><th>Lens</th><th>Read</th><th>/10</th></tr>
+      <tr><td><b>L</b>ock</td><td>VR pod in a low-interest category; earned Gulf News feature</td><td>9</td></tr>
+      <tr><td><b>E</b>ngage</td><td>"Calm 4 senses in 2 minutes — why live with an overstimulated 5th?" reframe converts fatalism</td><td>8</td></tr>
+      <tr><td><b>A</b>dd</td><td>Product = item 5 of the take-home sensory kit; extends chill-test equity</td><td>8</td></tr>
+      <tr><td><b>P</b>ull</td><td>Sampling strong; no visible UGC loop or Arabic hashtag</td><td>6</td></tr>
+      <tr><td colspan="2"><b>31/40. Exploitable gap = Pull + the calendar:</b> Sensodyne can't touch Ramadan-sunnah territory and builds no participation. MISWAK GOLD's mechanics (routine duets, karak-counter UGC, stick co-pack unboxings) attack precisely there — and «الأصل» gives creators a story to retell, not an ad to repost.</td><td></td></tr>
+    </table>
+
+    <h2>C14 · Value-chain waterfall</h2>
+    <p class="tcap">T21 · Two stacks (AED/unit, estimates)</p>
+    <table>
+      <tr><th>Line</th><th>Value 170g (hyper shelf 6–9)</th><th>Miswak Gold 100ml (pharmacy shelf 18–25)</th></tr>
+      <tr><td>Ex-works RAK</td><td>2.2–3.0</td><td>3.5–4.5 (actives + foil/pump pack)</td></tr>
+      <tr><td>Distributor (15–25%)</td><td>→ 2.6–3.7</td><td>→ 4.2–5.6</td></tr>
+      <tr><td>Retail margin</td><td>hyper 25–35% → shelf 6–9</td><td>pharmacy 30–45% → shelf 18–25</td></tr>
+      <tr><td><b>Ex-factory realization vs cost</b></td><td>thin — volume + RAK proximity moat</td><td><b>8.5–9.5 vs 4.5–5 cost — the pool that funds Arabic A&amp;P</b></td></tr>
+      <tr><td colspan="3"><b>Rinse stack:</b> 500ml zero-alcohol at AED 29–39 (vs Listerine Miswak 49) — RAK liquid line; est. 30–38% brand margin at pharmacy <span class="chip revalidate">formulation costing</span>. <b>Co-pack:</b> Gold + sealed stick at AED 24.90 — stick COGS ~1.8–2.5 buys the authenticity no competitor can bundle.</td></tr>
+    </table>
+
+    <h2>C15 · Glossary — 25 terms · C16 Register · C17 MECE · C18 Risks</h2>
+    <p class="tcap">T22 · Glossary (grouped)</p>
+    <table>
+      <tr><th>Group</th><th>Terms</th></tr>
+      <tr><td>Hero ingredient</td><td><b>مسواك/سواك miswak</b> · <b>أراك arāk</b> (Salvadora persica — the tree; «خلاصة الأراك» = the claim) · <b>سنة sunnah</b> · <b>خلوف khulūf</b> (the fasting mouth-scent) · فلورايد (fluoride) · <b>عود oud</b> (gifting-edition scent code)</td></tr>
+      <tr><td>Demand language</td><td><b>تبييض</b> (whitening) · <b>ابتسامة هوليود</b> (Hollywood smile) · <b>لثة</b> (gums) · <b>نفس منعش</b> (fresh breath) · <b>حساسية الأسنان</b> (sensitivity) · <b>جير/تصبغات</b> (tartar/stains) · <b>كرك karak</b> (the stain engine) · <b>ميدواخ midwakh</b> · مينا (enamel)</td></tr>
+      <tr><td>Ritual/calendar</td><td><b>سحور suhoor</b> · <b>إفطار iftar</b> · <b>مكروه makruh</b> · رمضان · العيد · حج/عمرة (travel-retail moment)</td></tr>
+      <tr><td>Commerce/claims</td><td><b>الأصل</b> (the original — the play's word) · <b>مُعلن</b> (Advertiser Permit) · Montaji · <b>حلال GSO 2055-4</b> · MAP (price governance)</td></tr>
+    </table>
+    <p class="tcap">T23 · Register (top items)</p>
+    <table>
+      <tr><th>#</th><th>Item</th><th>Conf.</th><th>Re-run</th></tr>
+      <tr><td>1</td><td>Channel split UAE oral (est. 45-55/15-20/10-15)</td><td><span class="conf l">L</span></td><td>Euromonitor UAE Oral Care 2025 tables</td></tr>
+      <tr><td>2</td><td>Brand shares (all est.)</td><td><span class="conf l">L</span></td><td>Same seat, NBO shares</td></tr>
+      <tr><td>3</td><td>Whitening +20% claim</td><td><span class="conf l">L</span></td><td>MECSC primary via Mordor</td></tr>
+      <tr><td>4</td><td>Live prices rows T18 1–3, 7, 10</td><td><span class="conf l">L</span></td><td>In-country logged-in scrape (ASINs listed in research file)</td></tr>
+      <tr><td>5</td><td>UAE Awqaf fasting-toothpaste fatwa text</td><td><span class="conf l">L</span></td><td>awqaf.gov.ae search from UAE IP</td></tr>
+      <tr><td>6</td><td>Miswak usage rate UAE</td><td><span class="conf l">L</span></td><td>UAE dental-school theses; Arabic survey (Appendix)</td></tr>
+      <tr><td>7</td><td>Ramadan category lift</td><td><span class="conf l">L</span></td><td>Nielsen GCC Ramadan read (est. +15–30% flagged)</td></tr>
+      <tr><td>8</td><td>Signal Herbal Miswak exact price/velocity</td><td><span class="conf l">L</span></td><td>Carrefour shelf audit</td></tr>
+      <tr><td>9</td><td>Existing noon "Miswak Gold" 3-pack status</td><td><span class="conf m">M</span></td><td>Internal line audit — fold into architecture</td></tr>
+      <tr><td>10</td><td>Pharmacy door counts (Life 300 vs 600+)</td><td><span class="conf m">M</span></td><td>Life Healthcare IR/store locator</td></tr>
+    </table>
+    <p class="tcap">T24 · Entry-mode MECE (recode-specific)</p>
+    <table>
+      <tr><th>Mode</th><th>Works if / fails if</th><th>Verdict</th></tr>
+      <tr><td><b>A · RAK-made Gold via existing distribution + pharmacy push</b></td><td>Works: RAK toothpaste capacity live, Montaji fast. Fails: pharmacy listing velocity stalls</td><td><b>BASE CASE</b></td></tr>
+      <tr><td>B · Rinse co-manufacture (if RAK liquid line constrained)</td><td>Works: UAE CM capacity abundant. Fails: margin −8–10pts</td><td>Contingency</td></tr>
+      <tr><td>C · Pharmacy-exclusive window (Life)</td><td>Works: feature support secured. Fails: coop/Emirati reach delayed</td><td>Soft-exclusive 1 season max</td></tr>
+      <tr><td>D · License stick supply (Al-Falah-grade partner)</td><td>Works: authentic sealed sticks at scale. Fails: QC variance</td><td>Do — co-pack component</td></tr>
+    </table>
+    <p class="tcap">T25 · Risk register</p>
+    <table>
+      <tr><th>#</th><th>Risk</th><th>L×I</th><th>Mitigation / kill-switch</th></tr>
+      <tr><td>R1</td><td>Religious-claim misstep (brand seen preaching)</td><td>M×H</td><td>Hard rule: arak-science voice only; creators carry sunnah organically (permitted, disclosed); Arabic-expert sign-off; 48h freeze</td></tr>
+      <tr><td>R2</td><td>Whitening claim disbelieved vs Optic White</td><td>M×H</td><td>V2 panel pre-launch; 14-day stain-diary UGC as proof engine; gum-first fallback</td></tr>
+      <tr><td>R3</td><td>3P price chaos undermines Gold</td><td>H×M</td><td>MAP program BEFORE launch (W-D); serialised packs; Brand Registry</td></tr>
+      <tr><td>R4</td><td>Signal clones "premium miswak"</td><td>M×M</td><td>«الأصل» equity + stick co-pack + speed; trademark watch</td></tr>
+      <tr><td>R5</td><td>Listerine cuts Miswak rinse to AED 35</td><td>M×M</td><td>Ours at 29–39 with halal mark + arak% story; never below 27</td></tr>
+      <tr><td>R6</td><td>Creator health-claim co-liability incident</td><td>M×H</td><td>Permit-verified roster; hygiene-grade briefs; legal review of scripts</td></tr>
+      <tr><td>R7</td><td>Ramadan stock/logistics miss</td><td>L×H</td><td>RAK proximity = 4-week replenishment; co-pack assembly by Dec</td></tr>
+    </table>
+
+    <div class="bet"><b>Reputation Bet (UAE Oral):</b> If MISWAK GOLD launches on plan (Gold by Nov 2026,
+    rinse by Ramadan 2027, MAP program live), then by <b>15 May 2027 (post-Eid)</b>: (i) Gold + rinse sell
+    ≥180,000 units in the Ramadan window, (ii) Dabur oral holds listings in ≥350 pharmacy doors, and
+    (iii) the Shopee-equivalent test — noon search for «معجون مسواك» — returns Dabur above Signal's variant
+    organically. If (i) and (ii) both miss, the recode fails: hold the value fortress, license the Gold
+    formula learnings to the KSA brief, and concede the UAE premium tier for this cycle. — <i>Falsifiable,
+    dated, binding on W-2.</i></div>
+
+    <h2>Appendix · Arabic deep-research prompt (oral-specific)</h2>
+    <div class="appendix">أنت خبير أبحاث سوق العناية بالفم في الخليج. أجب بالعربية مع المصدر والتاريخ؛ اكتب "لا توجد بيانات" عند عدم التوفر.
+
+1. نون/أمازون/كارفور الإمارات: الأسعار الحالية وعدد التقييمات لـ: معجون دابر مسواك ١٧٠غ، سيجنال هيربال مسواك، كولجيت أوبتك وايت، سنسوداين، ليسترين مسواك ٥٠٠ مل — حدد البائع الرسمي.
+2. ما حجم ارتفاع مبيعات السواك (العيدان) في رمضان في الإمارات/السعودية؟ ابحث في تقارير التجارة والصحف الخليجية ٢٠٢٣–٢٠٢٦.
+3. نص فتوى الأوقاف الإماراتية حول استخدام معجون الأسنان أثناء الصيام (awqaf.gov.ae).
+4. من هم صانعو محتوى السواك الخليجيون الأكثر متابعة على تيك توك؟ (أسماء، متابعون، وهل لديهم تصريح مُعلن؟)
+5. اختبار مفهوم «مسواك جولد — تبييض آمن للمينا بخلاصة الأراك» بسعر ١٩–٢٥ درهم لدى ٢٠ مستهلكاً (إماراتيين وعرب وآسيويين): هل التبييض مُصدَّق؟ ما السعر المقبول؟
+6. حملات رمضان ٢٠٢٦ للعناية بالفم في الخليج: من امتلك لحظة «رائحة الفم أثناء الصيام»؟ اقتبس الشعارات.
+7. أسعار وشروط إدراج العلامات في صيدليات لايف وأستر وبن سينا (هوامش، رسوم إدراج).
+8. هل يعرف المستهلك الخليجي أن دابر مسواك أقدم من نكهات المسواك لدى المنافسين؟ اختبر رسالة «الأصل».</div>
+
+    <footer>UAE — Oral Care Category Deep-Dive &amp; Strategy · Dabur India · 5 July 2026 · Deck 2 of 4,
+    reads on UAE_MACRO (5 Jul 2026) · Public-data first pass — re-validate before board use · Generated by
+    the COUNTRY ANALYSIS skill (C1–C18 + O1–O6 + 8 mandatory modules).</footer>
+  </div>
+</body>
+</html>
