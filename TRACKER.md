@@ -46,7 +46,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Saudi Arabia | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-saudi-arabia/` |
 | B9 | GCC | UAE | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-uae/` |
 | B9 | GCC | Kuwait | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-kuwait/` |
-| B9 | GCC | Oman | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ⬜ | ⬜ | `reports/B9-oman/` |
+| B9 | GCC | Oman | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ⬜ | `reports/B9-oman/` |
 | B9 | GCC | Qatar | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B9-qatar/` |
 | B9 | GCC | Bahrain | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-bahrain/` |
 
