@@ -35,4 +35,26 @@ not substitute a prose sentence. Section order = C1–C18:
 | O1–O6 | Own-brand read (this category) | Availability/awareness/purchase/sentiment table + the category white-space & positioning-space map |
 | C6 | Sizing | TAM/SAM/SOM with an **assumptions ledger table**; Y1 / envelope / Y3 bands |
 | C7 | Recommended strategy | Wave table (move × role × 4-cell colour) + gates + kill-switches |
-| C8 | Creative territories | **Pe
+| C8 | Creative territories | **Per-territory LEAP-logic table** (territory × Lock/Engage/Add/Pull read × the demand-engine mechanic) |
+
+> **[RECONSTRUCTED 5 Jul 2026]** — the original export truncated inside the C8 row above. Rows C9–C18
+> below are reconstructed from the four Vietnam benchmark decks' actual section artifacts. Replace with
+> the original if recovered.
+
+| # | Section | Required artifact (minimum) |
+|---|---|---|
+| C9 | DEEP STRAT stress test (condensed) | 3-persona table (Skeptic/Champion/End-User + convergence) + **danger-rated assumption audit table** (Customer/Market/Team/Competitor/P&L × Low/Med/High) + 5-round blind-spot scan table |
+| C10 | Validation checklist | Table: claim → what must be true → test → owner-run query — before any number becomes a board fact |
+| C11 | Channel architecture & economics | **Channel saliency table** (named sub-channel × % of category sales × trajectory-with-a-number × role for entrant) + **margin architecture table** (front + back margins per channel, public ranges, `⚠ re-validate`) |
+| C12 | E-commerce scrape snapshot | **Price × pack × rating/SOV matrix, ≥5 brands/SKUs** from the named platforms, seller-type column (official/grey), all platform numbers `⚠ re-validate` |
+| C13 | Communication & ad decode | Competitor content/channel map + **real local ad-copy decode table** (original · romanisation · literal · essence) + **LEAP scoring table** for the lead benchmark ad + the one-line exploitable gap |
+| C14 | Value-chain waterfall | Line-by-line cost-to-profit waterfall for 1–2 hero SKUs (ex-works → duty → landed → trade margins → platform take → shelf price → brand contribution), duty line tied to the chosen lane |
+| C15 | Local-script glossary | **≥25 terms, grouped** (ingredient · claims/regulatory · ritual/demand · channels · culture), local script + romanisation + gloss |
+| C16 | Source-confidence register | Category-scoped register: value · source · date · H/M/L · exact `⚠ re-validate` re-run query |
+| C17 | Entry-mode decision (MECE) | Option table with "works if / fails if" per lane + recommended lane + switch triggers |
+| C18 | Risk register | Risk × likelihood × impact × early-warning × mitigation × kill-switch table |
+| — | Reputation Bet | Closing block: one falsifiable claim + dated window (every deck ends with it) |
+| — | Appendix (gap rule) | Ready-to-paste local-language deep-research prompt where sources were language-gated |
+
+Self-check before shipping any deck: ≥6,000 visible words · ≥20 tables · all 8 mandatory modules · real
+local ad copy · ≥25-term glossary · every number sourced+dated · Reputation Bet present.

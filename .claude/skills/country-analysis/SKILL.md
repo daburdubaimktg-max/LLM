@@ -183,4 +183,40 @@ sizing, recommended strategy with the 4-cell typology + gates + kill-switches, D
 validation checklist, GTM brand-by-brand teardowns + N-move playbook, channel architecture & margins,
 e-commerce price×pack×SOV scrape, ad/comms decode with real ad copy + LEAP scoring, cost-to-profit
 value-chain waterfall, ≥25-term local-script glossary). C17 (entry-mode MECE) and C18 (risk register) are
-additions. Each category report **references the macro
+additions. Each category report **references the macro report** for country context — a
+callout box citing the macro's section (§M-number), never a re-paste.
+
+> **[RECONSTRUCTED 5 Jul 2026]** — the original export of this file was truncated at the line above.
+> Everything below is reconstructed from the four Vietnam benchmark decks and the kit documents
+> (0_START_HERE §3, 2_RUN_PROMPT). Replace with the original text if it is ever recovered.
+
+Default category order: **Hair → Oral → OTC Health → Skin** (or as the run prompt specifies). After the
+macro, STOP and let the user confirm before starting category passes. Never start a second category in
+the same pass as the first.
+
+### Phase 3 — Portfolio synthesis (M11) + cross-country comparison
+
+Roll the four category verdicts into the macro's **M11 portfolio-sequencing synthesis**: the shared
+operating chassis (one regulatory route, one channel engine, one org spine, one ingredient/equity thread,
+one FX posture), the **4-cell typology** ranking (Momentum Engine / Breakout / Turnaround / White-space),
+wave assignments with gates and kill-switches, and the **portfolio-level Reputation Bet**. If multiple
+countries were named at invoke, add the **cross-country comparison appendix**: rank markets by
+attractiveness × right-to-win, one decisive reason per rank.
+
+### Phase 4 — Depth self-check + ship
+
+Before shipping EACH report run the self-check: visible words ≥6,000 · tables ≥20 · all 8 mandatory
+modules present (category decks) · real local-language ad copy present · glossary ≥25 terms · every hard
+number sourced+dated · platform/GMV/share numbers flagged `⚠ re-validate` with the exact re-run query ·
+closing Reputation Bet present (falsifiable, dated). If any check fails, EXPAND before shipping — never
+ship thin. Then save the HTML to the country's report folder, update the tracker status, and present the
+file. If a single report risks truncation, write it in two halves (C1–C9, then C10–C18) and stitch.
+
+## Expert orchestration
+
+Route per `references/expert-orchestration.md`: the region-matched CONSUMER-INSIGHT and LANGUAGE/AD
+experts join at M4/M8/M9 (macro) and C4/C8/C13/C15 (category). Where no bespoke expert exists, apply the
+**gap rule**: generic senior lens, flag the gap in the report banner, and emit a ready-to-paste
+local-language deep-research prompt in the appendix. The 8 core skills apply on every country: FOCUS
+(Phase 0), DEEP THINK (C5), DEEP STRAT (C9), HBR-DATA (C6), COMPANY-RESEARCH-1/2 (C3, GTM teardowns),
+AD STRATEGIST (C8/C13 LEAP), MARKETING-PSYCHOLOGY (C4/C8).

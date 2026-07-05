@@ -235,4 +235,34 @@ proven China-deck spine; C17–C18 are additions.
 - **C10 — Validation checklist.** What must be true before the board treats numbers as facts.
 - **C11 — Channel architecture & economics.** Saliency (contribution to category sales) + front/back
   margins by channel, as public ranges with `⚠ re-validate`.
-- **C12 — E-commerce scrape snapshot.** Lead-brand price × pack matrix, share-of-vo
+- **C12 — E-commerce scrape snapshot.** Lead-brand price × pack matrix, share-of-voice/ratings, seller mix
+  (official vs grey), promo mechanics — real listings for ≥5 lead brands/SKUs from the platforms named in
+  M6, each cell carrying price × pack × rating count, flagged `⚠ re-validate`.
+
+> **[RECONSTRUCTED 5 Jul 2026]** — the original export truncated inside C12 above. C13–C18 below are
+> reconstructed from the four Vietnam benchmark decks (whose section structure embodies them) and the
+> 8-mandatory-modules list in SKILL.md. Replace with the original text if recovered.
+
+- **C13 — Communication & ad decode.** The competitor content/channel map for this category, then
+  **real local-language ad-copy lines decoded in a table** (original line · romanisation · literal ·
+  essence/why it works), then a **LEAP scoring table** (Lock / Engage / Add / Pull, per-lens read + score)
+  for the single most relevant benchmark ad — ending in the one-line exploitable gap. Zero real ad copy =
+  a failed C13; emit the local-language research prompt instead of inventing lines.
+- **C14 — Cost-to-profit value-chain waterfall.** Line-by-line for 1–2 hero SKUs: ex-works COGS → freight
+  → duty (per the M3 tariff lane) → landed → importer/distributor margin → channel front+back margin →
+  platform take/fees → consumer price → implied brand contribution. Public-range estimates, every line
+  flagged with its source or `estimate based on…`, duty line tied to the chosen supply lane.
+- **C15 — Local-script glossary.** ≥25 terms, grouped: hero ingredient · claims/regulatory · ritual/demand
+  language · channels/commerce · culture/semiotics. Each term: local script · romanisation · gloss ·
+  why it matters commercially. Extends the M9 seed; native-screen flag where the gap rule applies.
+- **C16 — Source-confidence & re-validation register (category).** Same format as M10, scoped to this
+  category: value · source · date · confidence H/M/L · exact re-run query for every `⚠ re-validate` cell,
+  plus the category's local-language deep-research prompt if sources were language-gated.
+- **C17 — Entry-mode decision (MECE).** The lane options from M7 applied to THIS category: each option
+  with "works if / fails if", cost/speed/control trade-offs, the recommended lane + trigger points for
+  switching (e.g. local-manufacturing threshold), and second-order responses (incumbent, trade, platform).
+- **C18 — Risk register.** The named risks (regulatory, FX/duty, incumbent retaliation, platform-fee
+  drift, counterfeit/trust events, supply), each with likelihood × impact, early-warning indicator,
+  mitigation, and the kill-switch it trips. Close the deck with the **Reputation Bet** (falsifiable claim,
+  dated window) and, where the gap rule applied, the ready-to-paste local-language deep-research prompt
+  as the final appendix.
