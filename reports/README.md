@@ -4,7 +4,7 @@ One folder per country: `reports/<batch>-<country-slug>/` (e.g. `reports/B9-uae/
 
 Five HTML files per country, produced in this order, **one full-depth pass each**:
 
-1. `<COUNTRY>_Country_Macro_Foundation.html`
+1. `<COUNTRY>_MACRO_Country_Entry_Foundation.html`
 2. `<COUNTRY>_HairCare_Category_Analysis_and_Entry_Strategy.html`
 3. `<COUNTRY>_OralCare_Category_Analysis_and_Entry_Strategy.html`
 4. `<COUNTRY>_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.html`

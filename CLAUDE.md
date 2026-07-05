@@ -70,8 +70,8 @@ falls short of the checklist in `kit/0_START_HERE_HANDOVER.md` §7 is rejected, 
 
 ## 6. Repo conventions
 - **Reports** go to `reports/<batch>-<country-slug>/`, e.g. `reports/B1-malaysia/`. File names
-  mirror the Vietnam benchmarks:
-  - `<COUNTRY>_Country_Macro_Foundation.html`
+  follow the skill's template (`references/report-template.md`) and the Vietnam benchmarks:
+  - `<COUNTRY>_MACRO_Country_Entry_Foundation.html`
   - `<COUNTRY>_HairCare_Category_Analysis_and_Entry_Strategy.html`
   - `<COUNTRY>_OralCare_Category_Analysis_and_Entry_Strategy.html`
   - `<COUNTRY>_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.html`
