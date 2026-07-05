@@ -7,6 +7,7 @@
 | B1-malaysia | MALAYSIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B1-malaysia/MALAYSIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 6563 |
 | B1-malaysia | MALAYSIA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B1-malaysia/MALAYSIA_OralCare_Category_Analysis_and_Entry_Strategy.md | 6873 |
 | B1-malaysia | MALAYSIA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B1-malaysia/MALAYSIA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 6515 |
+| B9-bahrain | BAHRAIN_MACRO_Country_Entry_Foundation | facts/B9-bahrain/BAHRAIN_MACRO_Country_Entry_Foundation.md | 4230 |
 | B9-uae | UAE_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_HairCare_Category_Analysis_and_Entry_Strategy.md | 6333 |
 | B9-uae | UAE_MACRO_Country_Entry_Foundation | facts/B9-uae/UAE_MACRO_Country_Entry_Foundation.md | 6001 |
 | B9-uae | UAE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 7691 |
