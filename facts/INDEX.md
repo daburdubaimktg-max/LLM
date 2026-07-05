@@ -14,6 +14,7 @@
 | B9-bahrain | BAHRAIN_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B9-bahrain/BAHRAIN_SkinCare_Category_Analysis_and_Entry_Strategy.md | 6279 |
 | B9-kuwait | KUWAIT_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-kuwait/KUWAIT_HairCare_Category_Analysis_and_Entry_Strategy.md | 4885 |
 | B9-kuwait | KUWAIT_MACRO_Country_Entry_Foundation | facts/B9-kuwait/KUWAIT_MACRO_Country_Entry_Foundation.md | 4806 |
+| B9-kuwait | KUWAIT_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-kuwait/KUWAIT_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4841 |
 | B9-kuwait | KUWAIT_OralCare_Category_Analysis_and_Entry_Strategy | facts/B9-kuwait/KUWAIT_OralCare_Category_Analysis_and_Entry_Strategy.md | 4620 |
 | B9-oman | OMAN_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-oman/OMAN_HairCare_Category_Analysis_and_Entry_Strategy.md | 6497 |
 | B9-oman | OMAN_MACRO_Country_Entry_Foundation | facts/B9-oman/OMAN_MACRO_Country_Entry_Foundation.md | 4367 |
