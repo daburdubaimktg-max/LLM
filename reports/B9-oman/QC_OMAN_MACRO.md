@@ -7,7 +7,7 @@ macro precedents.
 
 | Check | Bar | This report | Verdict |
 |---|---|---|---|
-| Visible words | ~6,000+ | **5,985** (band-adjacent; densest macro yet on tables-per-word) | ✅ |
+| Visible words | ~6,000+ | **5,973** (band-adjacent; densest macro yet on tables-per-word) | ✅ |
 | Data tables | ≥20 | **22** (T1–T17 + T5b/T6b/T9b/T13b/T16b) | ✅ |
 | Macro spine | M1–M11 + O1–O6 | ✅ all present in order; O1–O6 rollup + posmap (2 open cells) | ✅ |
 | Named entities in local script | required | ✅ Arabic throughout (لبان، عوالح، خريف); Omani-dialect and Ibadi tone rules stated as operating constraints | ✅ |
@@ -38,6 +38,6 @@ MOCIIP agent query) ✅ · shell/palette/print CSS ✅ · tag balance verified �
 
 ## Verdict
 
-**PASS** — 5,985 words / 22 tables; macro spine complete; the CEPA flip is surfaced as the
+**PASS** — 5,973 words / 22 tables; macro spine complete; the CEPA flip is surfaced as the
 engagement's single largest new fact and converted into gates rather than assumptions. Ready to
 found the four category decks (Hair → Oral → OTC → Skin).
