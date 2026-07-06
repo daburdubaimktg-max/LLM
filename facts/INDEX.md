@@ -31,6 +31,7 @@
 | B8-angola | ANGOLA_MACRO_Country_Entry_Foundation | facts/B8-angola/ANGOLA_MACRO_Country_Entry_Foundation.md | 3180 |
 | B8-angola | ANGOLA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B8-angola/ANGOLA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3453 |
 | B8-angola | ANGOLA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B8-angola/ANGOLA_OralCare_Category_Analysis_and_Entry_Strategy.md | 3381 |
+| B8-angola | ANGOLA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B8-angola/ANGOLA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3572 |
 | B8-mauritius | MAURITIUS_HairCare_Category_Analysis_and_Entry_Strategy | facts/B8-mauritius/MAURITIUS_HairCare_Category_Analysis_and_Entry_Strategy.md | 3029 |
 | B8-mauritius | MAURITIUS_MACRO_Country_Entry_Foundation | facts/B8-mauritius/MAURITIUS_MACRO_Country_Entry_Foundation.md | 3146 |
 | B8-mauritius | MAURITIUS_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B8-mauritius/MAURITIUS_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3002 |
