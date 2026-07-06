@@ -37,6 +37,7 @@
 | B8-south-africa | SOUTH_AFRICA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B8-south-africa/SOUTH_AFRICA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3331 |
 | B8-south-africa | SOUTH_AFRICA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B8-south-africa/SOUTH_AFRICA_OralCare_Category_Analysis_and_Entry_Strategy.md | 3178 |
 | B8-south-africa | SOUTH_AFRICA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B8-south-africa/SOUTH_AFRICA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3453 |
+| B8-zambia | ZAMBIA_MACRO_Country_Entry_Foundation | facts/B8-zambia/ZAMBIA_MACRO_Country_Entry_Foundation.md | 2769 |
 | B9-bahrain | BAHRAIN_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-bahrain/BAHRAIN_HairCare_Category_Analysis_and_Entry_Strategy.md | 6447 |
 | B9-bahrain | BAHRAIN_MACRO_Country_Entry_Foundation | facts/B9-bahrain/BAHRAIN_MACRO_Country_Entry_Foundation.md | 4230 |
 | B9-bahrain | BAHRAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-bahrain/BAHRAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 6637 |
