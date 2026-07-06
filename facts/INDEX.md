@@ -44,6 +44,7 @@
 | B9-oman | OMAN_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B9-oman/OMAN_SkinCare_Category_Analysis_and_Entry_Strategy.md | 6349 |
 | B9-qatar | QATAR_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-qatar/QATAR_HairCare_Category_Analysis_and_Entry_Strategy.md | 3956 |
 | B9-qatar | QATAR_MACRO_Country_Entry_Foundation | facts/B9-qatar/QATAR_MACRO_Country_Entry_Foundation.md | 4146 |
+| B9-qatar | QATAR_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-qatar/QATAR_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3464 |
 | B9-qatar | QATAR_OralCare_Category_Analysis_and_Entry_Strategy | facts/B9-qatar/QATAR_OralCare_Category_Analysis_and_Entry_Strategy.md | 3546 |
 | B9-saudi-arabia | SAUDI_ARABIA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-saudi-arabia/SAUDI_ARABIA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4222 |
 | B9-saudi-arabia | SAUDI_ARABIA_MACRO_Country_Entry_Foundation | facts/B9-saudi-arabia/SAUDI_ARABIA_MACRO_Country_Entry_Foundation.md | 4459 |
