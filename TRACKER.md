@@ -29,7 +29,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B5 | Russia / CIS / Caucasus | Azerbaijan | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B5-azerbaijan/` |
 | B5 | Russia / CIS / Caucasus | Armenia | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B5-armenia/` |
 | B5 | Russia / CIS / Caucasus | Georgia | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B5-georgia/` |
-| B6 | SSA - West | Nigeria | Africa insight | Claude | ✅ | ✅ | ✅ | ✅ | ⬜ | `reports/B6-nigeria/` |
+| B6 | SSA - West | Nigeria | Africa insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B6-nigeria/` |
 | B6 | SSA - West | Ghana | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B6-ghana/` |
 | B6 | SSA - West | Ivory Coast | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B6-ivory-coast/` |
 | B7 | SSA - East | Kenya | Africa insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B7-kenya/` |
@@ -50,4 +50,4 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Qatar | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-qatar/` |
 | B9 | GCC | Bahrain | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-bahrain/` |
 
-**Progress: 0 / 210 batch reports done. Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file.**
+**Progress: 65 / 210 batch reports done (13 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria). Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file. B6 next: Ghana, Ivory Coast.**
