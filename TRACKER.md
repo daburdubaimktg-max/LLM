@@ -33,7 +33,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B6 | SSA - West | Ghana | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B6-ghana/` |
 | B6 | SSA - West | Ivory Coast | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B6-ivory-coast/` |
 | B7 | SSA - East | Kenya | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B7-kenya/` |
-| B7 | SSA - East | Uganda | Africa insight | Claude | ✅ | ✅ | ⬜ | ⬜ | ⬜ | `reports/B7-uganda/` |
+| B7 | SSA - East | Uganda | Africa insight | Claude | ✅ | ✅ | ✅ | ⬜ | ⬜ | `reports/B7-uganda/` |
 | B7 | SSA - East | Tanzania | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B7-tanzania/` |
 | B7 | SSA - East | Rwanda | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B7-rwanda/` |
 | B8 | SSA - Southern | South Africa | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B8-south-africa/` |
