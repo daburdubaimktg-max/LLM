@@ -53,6 +53,15 @@ _source file: reports/B9-qatar/QATAR_SkinCare_Category_Analysis_and_Entry_Strate
 
 ## C5 · The two-register architecture, skin edition
 
+| Dimension | Diaspora register (leads) | Khaleeji register (premium niche) |
+|---|---|---|
+| Entry point | The remembered pink bottle at Lulu | The gift set; the ritual upgrade |
+| Price logic | Honest vs courier markup (an easy win) | Dress and occasion carry 45–70 |
+| Channel | Lulu/Carrefour + apps | Pharmacy beauty walls + gifting displays |
+| Occasion | Replenishment; daily toner | Eid/National Day gifting; bridal season |
+| Authority | The mother's dressing table | The rose ritual's own prestige |
+| Risk to avoid | Ghettoising the brand into the Indian aisle | Condescending to the culinary shelf's authenticity |
+
 
 ## C6 · Pricing architecture
 
@@ -116,6 +125,15 @@ _source file: reports/B9-qatar/QATAR_SkinCare_Category_Analysis_and_Entry_Strate
 
 ## C11 · T15b, Qatar edition — the register doctrine re-derived, third application
 
+| Window | Occasion | Register | Activity |
+|---|---|---|---|
+| Sep–Nov | Post-summer skin recovery; wedding season | Routine + ritual | R2/R3 core push; toner education content |
+| 18 Dec (National Day) | National pride; gifting | Khaleeji — panel-gated dress | R4 heritage-dress edition; pearl vocabulary shared with oral deck |
+| Pre-Ramadan | Home preparation; hospitality stocking | Both | Rose-water pantry+vanity double placement |
+| Ramadan/Eid | Gifting; the reset | Family-gifting | R4 Eid edition at fixed price; Eidiya bump |
+| Apr–Aug (heat) | AC-desiccation; mist season | Functional | Mist format forward; fridge-mist content angle |
+| Year-round | Replenishment; courier displacement | Diaspora | App storefronts; MAP discipline; subscription mechanics |
+
 
 ## C12 · The playbook — six moves
 
@@ -141,6 +159,15 @@ _source file: reports/B9-qatar/QATAR_SkinCare_Category_Analysis_and_Entry_Strate
 | COGS (est.) | −4.60 | 21% | estimate based on toner category norms |
 | A&P allocation | −2.40 | 11% | platform + panel + audit amortised |
 | Brand contribution | ~2.92 | ~13% | vs ~6–8% on Herbolene support floor; ~18–22% on R4 gift sets |
+
+| Element | Design | Rationale |
+|---|---|---|
+| Siting A | Gulabari Rose Water 120ml ON the culinary rose shelf, beside the big bottles | Joins the living ritual; format premium honestly framed («نفس الورد، صيغة للبشرة») |
+| Siting B | Toner 200ml + Mist 100ml in the beauty aisle | Inside the routine CeraVe taught; the empty rose-toner cell |
+| Cross-pointing | Shelf-talker at A points to B ("the ritual, in skin formats"); B's pack references the shelf's heritage | Each siting advertises the other — the mechanic's whole point |
+| Listing condition | Dual siting written into the Choithrams brief as a CONDITION, not a hope | Category managers file by default; conditions travel |
+| Fallback | Beauty-aisle-only if refused everywhere | Diminished, not dead — the DEEP THINK's kill-test |
+| Measure | Cross-purchase rate between sitings; courier-gap closure | The mechanic's own KPI, not just SKU velocity |
 
 
 ## C14 · Risks and second-order effects
@@ -212,6 +239,14 @@ _source file: reports/B9-qatar/QATAR_SkinCare_Category_Analysis_and_Entry_Strate
 | What we refuse | Sachets; culinary-volume war; whitening register; boutique adventure; % gift promos | Binding |
 
 > **REPUTATION BET:** REPUTATION BET (falsifiable, dated). By 30 June 2029 : Gulabari trades dual-sited (rose shelf + beauty aisle) in ≥70% of listed doors across both chains and Al Meera; the courier undercut gap is closed to ≤10% with own q-comm storefronts live; at least two fixed-price gift seasons have sold through ≥80% without a single % promo; the claim-drift audit shows zero shade-vocabulary incidents in any language including community media; Herbolene holds value-plus beside Vaseline without leading a price cut; and Dabur Qatar skin revenue is ≥4× its (near-zero) FY26 base at ≥12% brand contribution. Pre-registered post-mortem: siting (the retailer filed rose in one aisle), leakage (grey stock held the price floor), or register (discipline drifted under sales pressure) — the third failure being the one the programme most needs to know about, because it would impeach T15b's enforceability where law does not enforce it for us.
+
+| Wave | Window | Ships | Gate |
+|---|---|---|---|
+| W0 | Now | Doha shelf walk (rose census, Gulabari absence confirm, courier-price capture); Choithrams scope; panel review of platform lines | All three answered |
+| W1 | Q1–Q2 | Dual-sited listing both chains; Herbolene range-complete; app storefronts | Dual siting granted; courier gap closing |
+| W2 | Q2–Q3 | R3 toner/mist full launch; Al Meera; T15b audit machinery live | Velocity trajectory; zero register incidents |
+| W3 | Seasonal | Gifting architecture (National Day, Eid) | ≥80% fixed-price sell-through |
+| W4 | Year 2 | R4 ritual sets year-round; serum-tier watch (hair deck's pilot informs) | Mix trajectory visible |
 
 
 ## Appendix · Ready-to-paste local-language research asks
