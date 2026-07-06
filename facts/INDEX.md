@@ -7,6 +7,7 @@
 | B1-malaysia | MALAYSIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B1-malaysia/MALAYSIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 6563 |
 | B1-malaysia | MALAYSIA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B1-malaysia/MALAYSIA_OralCare_Category_Analysis_and_Entry_Strategy.md | 6873 |
 | B1-malaysia | MALAYSIA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B1-malaysia/MALAYSIA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 6515 |
+| B5-russia | RUSSIA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B5-russia/RUSSIA_HairCare_Category_Analysis_and_Entry_Strategy.md | 3910 |
 | B5-russia | RUSSIA_MACRO_Country_Entry_Foundation | facts/B5-russia/RUSSIA_MACRO_Country_Entry_Foundation.md | 4718 |
 | B7-kenya | KENYA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B7-kenya/KENYA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4339 |
 | B7-kenya | KENYA_MACRO_Country_Entry_Foundation | facts/B7-kenya/KENYA_MACRO_Country_Entry_Foundation.md | 4349 |
