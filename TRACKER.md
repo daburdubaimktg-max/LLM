@@ -11,7 +11,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B1 | SE Asia | Thailand | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B1-thailand/` |
 | B1 | SE Asia | Indonesia | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B1-indonesia/` |
 | B1 | SE Asia | Philippines | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B1-philippines/` |
-| B2 | Horn of Africa | Ethiopia | Africa insight (+Arabic: Sudan/Somalia) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B2-ethiopia/` |
+| B2 | Horn of Africa | Ethiopia | Africa insight (+Arabic: Sudan/Somalia) | Claude | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B2-ethiopia/` |
 | B2 | Horn of Africa | Somalia | Africa insight (+Arabic: Sudan/Somalia) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B2-somalia/` |
 | B2 | Horn of Africa | Sudan | Africa insight (+Arabic: Sudan/Somalia) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B2-sudan/` |
 | B3 | Levant / Iraq | Iraq | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-iraq/` |
@@ -50,4 +50,4 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Qatar | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-qatar/` |
 | B9 | GCC | Bahrain | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-bahrain/` |
 
-**Progress: 70 / 210 batch reports done (14 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq). Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file. B3 next: Jordan, Lebanon, Yemen. B6 next: Ghana, Ivory Coast.**
+**Progress: 71 / 210 batch reports done (14 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq). In progress: Ethiopia 1/5 (macro). Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file. B2 next: Ethiopia Hair→Oral→OTC→Skin. B3 next: Jordan. B6 next: Ghana, Ivory Coast.**
