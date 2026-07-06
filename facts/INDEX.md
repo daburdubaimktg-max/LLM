@@ -9,6 +9,7 @@
 | B1-malaysia | MALAYSIA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B1-malaysia/MALAYSIA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 6515 |
 | B7-uganda | UGANDA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B7-uganda/UGANDA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4546 |
 | B7-uganda | UGANDA_MACRO_Country_Entry_Foundation | facts/B7-uganda/UGANDA_MACRO_Country_Entry_Foundation.md | 4241 |
+| B7-uganda | UGANDA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B7-uganda/UGANDA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4464 |
 | B7-uganda | UGANDA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B7-uganda/UGANDA_OralCare_Category_Analysis_and_Entry_Strategy.md | 4300 |
 | B9-bahrain | BAHRAIN_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-bahrain/BAHRAIN_HairCare_Category_Analysis_and_Entry_Strategy.md | 6447 |
 | B9-bahrain | BAHRAIN_MACRO_Country_Entry_Foundation | facts/B9-bahrain/BAHRAIN_MACRO_Country_Entry_Foundation.md | 4230 |
