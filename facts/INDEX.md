@@ -14,6 +14,7 @@
 | B7-kenya | KENYA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B7-kenya/KENYA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4280 |
 | B7-tanzania | TANZANIA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B7-tanzania/TANZANIA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4272 |
 | B7-tanzania | TANZANIA_MACRO_Country_Entry_Foundation | facts/B7-tanzania/TANZANIA_MACRO_Country_Entry_Foundation.md | 3911 |
+| B7-tanzania | TANZANIA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B7-tanzania/TANZANIA_OralCare_Category_Analysis_and_Entry_Strategy.md | 4293 |
 | B7-uganda | UGANDA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B7-uganda/UGANDA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4546 |
 | B7-uganda | UGANDA_MACRO_Country_Entry_Foundation | facts/B7-uganda/UGANDA_MACRO_Country_Entry_Foundation.md | 4241 |
 | B7-uganda | UGANDA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B7-uganda/UGANDA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4464 |
