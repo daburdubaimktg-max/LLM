@@ -36,6 +36,7 @@
 | B8-botswana | BOTSWANA_MACRO_Country_Entry_Foundation | facts/B8-botswana/BOTSWANA_MACRO_Country_Entry_Foundation.md | 2885 |
 | B8-botswana | BOTSWANA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B8-botswana/BOTSWANA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3196 |
 | B8-botswana | BOTSWANA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B8-botswana/BOTSWANA_OralCare_Category_Analysis_and_Entry_Strategy.md | 3080 |
+| B8-botswana | BOTSWANA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B8-botswana/BOTSWANA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3259 |
 | B8-mauritius | MAURITIUS_HairCare_Category_Analysis_and_Entry_Strategy | facts/B8-mauritius/MAURITIUS_HairCare_Category_Analysis_and_Entry_Strategy.md | 3029 |
 | B8-mauritius | MAURITIUS_MACRO_Country_Entry_Foundation | facts/B8-mauritius/MAURITIUS_MACRO_Country_Entry_Foundation.md | 3146 |
 | B8-mauritius | MAURITIUS_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B8-mauritius/MAURITIUS_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3002 |
