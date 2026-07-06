@@ -14,7 +14,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B2 | Horn of Africa | Ethiopia | Africa insight (+Arabic: Sudan/Somalia) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B2-ethiopia/` |
 | B2 | Horn of Africa | Somalia | Africa insight (+Arabic: Sudan/Somalia) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B2-somalia/` |
 | B2 | Horn of Africa | Sudan | Africa insight (+Arabic: Sudan/Somalia) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B2-sudan/` |
-| B3 | Levant / Iraq | Iraq | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-iraq/` |
+| B3 | Levant / Iraq | Iraq | Arabic + MENA insight | Claude | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-iraq/` |
 | B3 | Levant / Iraq | Jordan | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-jordan/` |
 | B3 | Levant / Iraq | Lebanon | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-lebanon/` |
 | B3 | Levant / Iraq | Yemen | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-yemen/` |
