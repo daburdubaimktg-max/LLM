@@ -37,6 +37,7 @@
 | B8-mauritius | MAURITIUS_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B8-mauritius/MAURITIUS_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3002 |
 | B8-mauritius | MAURITIUS_OralCare_Category_Analysis_and_Entry_Strategy | facts/B8-mauritius/MAURITIUS_OralCare_Category_Analysis_and_Entry_Strategy.md | 2751 |
 | B8-mauritius | MAURITIUS_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B8-mauritius/MAURITIUS_SkinCare_Category_Analysis_and_Entry_Strategy.md | 2867 |
+| B8-mozambique | MOZAMBIQUE_MACRO_Country_Entry_Foundation | facts/B8-mozambique/MOZAMBIQUE_MACRO_Country_Entry_Foundation.md | 2987 |
 | B8-south-africa | SOUTH_AFRICA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B8-south-africa/SOUTH_AFRICA_HairCare_Category_Analysis_and_Entry_Strategy.md | 3453 |
 | B8-south-africa | SOUTH_AFRICA_MACRO_Country_Entry_Foundation | facts/B8-south-africa/SOUTH_AFRICA_MACRO_Country_Entry_Foundation.md | 3337 |
 | B8-south-africa | SOUTH_AFRICA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B8-south-africa/SOUTH_AFRICA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3331 |
