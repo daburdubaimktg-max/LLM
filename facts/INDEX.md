@@ -27,6 +27,7 @@
 | B7-uganda | UGANDA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B7-uganda/UGANDA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4464 |
 | B7-uganda | UGANDA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B7-uganda/UGANDA_OralCare_Category_Analysis_and_Entry_Strategy.md | 4300 |
 | B7-uganda | UGANDA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B7-uganda/UGANDA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4403 |
+| B8-south-africa | SOUTH_AFRICA_MACRO_Country_Entry_Foundation | facts/B8-south-africa/SOUTH_AFRICA_MACRO_Country_Entry_Foundation.md | 3337 |
 | B9-bahrain | BAHRAIN_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-bahrain/BAHRAIN_HairCare_Category_Analysis_and_Entry_Strategy.md | 6447 |
 | B9-bahrain | BAHRAIN_MACRO_Country_Entry_Foundation | facts/B9-bahrain/BAHRAIN_MACRO_Country_Entry_Foundation.md | 4230 |
 | B9-bahrain | BAHRAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-bahrain/BAHRAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 6637 |
@@ -46,6 +47,7 @@
 | B9-qatar | QATAR_MACRO_Country_Entry_Foundation | facts/B9-qatar/QATAR_MACRO_Country_Entry_Foundation.md | 4146 |
 | B9-qatar | QATAR_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-qatar/QATAR_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3464 |
 | B9-qatar | QATAR_OralCare_Category_Analysis_and_Entry_Strategy | facts/B9-qatar/QATAR_OralCare_Category_Analysis_and_Entry_Strategy.md | 3546 |
+| B9-qatar | QATAR_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B9-qatar/QATAR_SkinCare_Category_Analysis_and_Entry_Strategy.md | 2883 |
 | B9-saudi-arabia | SAUDI_ARABIA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-saudi-arabia/SAUDI_ARABIA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4222 |
 | B9-saudi-arabia | SAUDI_ARABIA_MACRO_Country_Entry_Foundation | facts/B9-saudi-arabia/SAUDI_ARABIA_MACRO_Country_Entry_Foundation.md | 4459 |
 | B9-saudi-arabia | SAUDI_ARABIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-saudi-arabia/SAUDI_ARABIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4137 |
