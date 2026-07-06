@@ -16,6 +16,7 @@
 | B7-rwanda | RWANDA_MACRO_Country_Entry_Foundation | facts/B7-rwanda/RWANDA_MACRO_Country_Entry_Foundation.md | 4298 |
 | B7-rwanda | RWANDA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B7-rwanda/RWANDA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3878 |
 | B7-rwanda | RWANDA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B7-rwanda/RWANDA_OralCare_Category_Analysis_and_Entry_Strategy.md | 3937 |
+| B7-rwanda | RWANDA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B7-rwanda/RWANDA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4053 |
 | B7-tanzania | TANZANIA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B7-tanzania/TANZANIA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4272 |
 | B7-tanzania | TANZANIA_MACRO_Country_Entry_Foundation | facts/B7-tanzania/TANZANIA_MACRO_Country_Entry_Foundation.md | 3911 |
 | B7-tanzania | TANZANIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B7-tanzania/TANZANIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4355 |
