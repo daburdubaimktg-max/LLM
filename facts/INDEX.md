@@ -46,6 +46,7 @@
 | B9-saudi-arabia | SAUDI_ARABIA_MACRO_Country_Entry_Foundation | facts/B9-saudi-arabia/SAUDI_ARABIA_MACRO_Country_Entry_Foundation.md | 4459 |
 | B9-saudi-arabia | SAUDI_ARABIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-saudi-arabia/SAUDI_ARABIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4137 |
 | B9-saudi-arabia | SAUDI_ARABIA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B9-saudi-arabia/SAUDI_ARABIA_OralCare_Category_Analysis_and_Entry_Strategy.md | 4116 |
+| B9-saudi-arabia | SAUDI_ARABIA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B9-saudi-arabia/SAUDI_ARABIA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4155 |
 | B9-uae | UAE_HairCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_HairCare_Category_Analysis_and_Entry_Strategy.md | 6333 |
 | B9-uae | UAE_MACRO_Country_Entry_Foundation | facts/B9-uae/UAE_MACRO_Country_Entry_Foundation.md | 6001 |
 | B9-uae | UAE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 7691 |

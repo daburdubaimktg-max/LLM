@@ -43,7 +43,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B8 | SSA - Southern | Mozambique | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B8-mozambique/` |
 | B8 | SSA - Southern | Namibia | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B8-namibia/` |
 | B8 | SSA - Southern | Botswana | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B8-botswana/` |
-| B9 | GCC | Saudi Arabia | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ⬜ | `reports/B9-saudi-arabia/` |
+| B9 | GCC | Saudi Arabia | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-saudi-arabia/` |
 | B9 | GCC | UAE | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-uae/` |
 | B9 | GCC | Kuwait | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-kuwait/` |
 | B9 | GCC | Oman | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-oman/` |
