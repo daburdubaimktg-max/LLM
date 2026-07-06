@@ -46,6 +46,7 @@
 | B8-namibia | NAMIBIA_MACRO_Country_Entry_Foundation | facts/B8-namibia/NAMIBIA_MACRO_Country_Entry_Foundation.md | 3056 |
 | B8-namibia | NAMIBIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B8-namibia/NAMIBIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3237 |
 | B8-namibia | NAMIBIA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B8-namibia/NAMIBIA_OralCare_Category_Analysis_and_Entry_Strategy.md | 3144 |
+| B8-namibia | NAMIBIA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B8-namibia/NAMIBIA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3329 |
 | B8-south-africa | SOUTH_AFRICA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B8-south-africa/SOUTH_AFRICA_HairCare_Category_Analysis_and_Entry_Strategy.md | 3453 |
 | B8-south-africa | SOUTH_AFRICA_MACRO_Country_Entry_Foundation | facts/B8-south-africa/SOUTH_AFRICA_MACRO_Country_Entry_Foundation.md | 3337 |
 | B8-south-africa | SOUTH_AFRICA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B8-south-africa/SOUTH_AFRICA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3331 |
