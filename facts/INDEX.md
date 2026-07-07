@@ -136,6 +136,7 @@
 | EXTRA-canada | CANADA_MACRO_Country_Entry_Foundation | facts/EXTRA-canada/CANADA_MACRO_Country_Entry_Foundation.md | 5111 |
 | EXTRA-canada | CANADA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5122 |
 | EXTRA-canada | CANADA_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_OralCare_Category_Analysis_and_Entry_Strategy.md | 4808 |
+| EXTRA-canada | CANADA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4772 |
 | EXTRA-france | FRANCE_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-france/FRANCE_HairCare_Category_Analysis_and_Entry_Strategy.md | 5108 |
 | EXTRA-france | FRANCE_MACRO_Country_Entry_Foundation | facts/EXTRA-france/FRANCE_MACRO_Country_Entry_Foundation.md | 4974 |
 | EXTRA-france | FRANCE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-france/FRANCE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5287 |

@@ -55,7 +55,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | EXTRA | Europe (user-directed) | Germany | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-germany/` |
 | EXTRA | Europe (user-directed) | Italy | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-italy/` |
 | EXTRA | Europe (user-directed) | Spain | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-spain/` |
-| EXTRA | North America (user-directed) | Canada | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ⬜ | `reports/EXTRA-canada/` |
+| EXTRA | North America (user-directed) | Canada | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-canada/` |
 | EXTRA | LatAm (user-directed) | Brazil | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-brazil/` |
 | EXTRA | LatAm (user-directed) | Mexico | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-mexico/` |
 | EXTRA | Central Africa (user-directed, queued after current directive) | Central African Republic | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-car/` |
