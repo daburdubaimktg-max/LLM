@@ -51,7 +51,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Bahrain | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-bahrain/` |
 | EXTRA | North America (user-directed) | United States | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-usa/` |
 | EXTRA | Europe (user-directed) | United Kingdom | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-uk/` |
-| EXTRA | Europe (user-directed) | France | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ⬜ | ⬜ | `reports/EXTRA-france/` |
+| EXTRA | Europe (user-directed) | France | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ⬜ | `reports/EXTRA-france/` |
 | EXTRA | Europe (user-directed) | Germany | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-germany/` |
 | EXTRA | Europe (user-directed) | Italy | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-italy/` |
 | EXTRA | Europe (user-directed) | Spain | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-spain/` |
