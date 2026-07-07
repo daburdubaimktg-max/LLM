@@ -161,6 +161,7 @@
 | EXTRA-mexico | MEXICO_MACRO_Country_Entry_Foundation | facts/EXTRA-mexico/MEXICO_MACRO_Country_Entry_Foundation.md | 5172 |
 | EXTRA-mexico | MEXICO_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-mexico/MEXICO_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4743 |
 | EXTRA-mexico | MEXICO_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-mexico/MEXICO_OralCare_Category_Analysis_and_Entry_Strategy.md | 4373 |
+| EXTRA-mexico | MEXICO_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-mexico/MEXICO_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4645 |
 | EXTRA-spain | SPAIN_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-spain/SPAIN_HairCare_Category_Analysis_and_Entry_Strategy.md | 5248 |
 | EXTRA-spain | SPAIN_MACRO_Country_Entry_Foundation | facts/EXTRA-spain/SPAIN_MACRO_Country_Entry_Foundation.md | 4660 |
 | EXTRA-spain | SPAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-spain/SPAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5438 |
