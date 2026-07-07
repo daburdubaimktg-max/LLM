@@ -21,6 +21,7 @@
 | B5-uzbekistan | UZBEKISTAN_MACRO_Country_Entry_Foundation | facts/B5-uzbekistan/UZBEKISTAN_MACRO_Country_Entry_Foundation.md | 3880 |
 | B5-uzbekistan | UZBEKISTAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B5-uzbekistan/UZBEKISTAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3328 |
 | B5-uzbekistan | UZBEKISTAN_OralCare_Category_Analysis_and_Entry_Strategy | facts/B5-uzbekistan/UZBEKISTAN_OralCare_Category_Analysis_and_Entry_Strategy.md | 3668 |
+| B5-uzbekistan | UZBEKISTAN_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B5-uzbekistan/UZBEKISTAN_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3470 |
 | B7-kenya | KENYA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B7-kenya/KENYA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4339 |
 | B7-kenya | KENYA_MACRO_Country_Entry_Foundation | facts/B7-kenya/KENYA_MACRO_Country_Entry_Foundation.md | 4349 |
 | B7-kenya | KENYA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B7-kenya/KENYA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4388 |
