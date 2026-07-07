@@ -50,6 +50,6 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Qatar | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-qatar/` |
 | B9 | GCC | Bahrain | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-bahrain/` |
 | EXTRA | North America (user-directed) | United States | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-usa/` |
-| EXTRA | Europe (user-directed) | United Kingdom | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ⬜ | `reports/EXTRA-uk/` |
+| EXTRA | Europe (user-directed) | United Kingdom | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-uk/` |
 
 **Progress: 0 / 210 batch reports done. Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file.**
