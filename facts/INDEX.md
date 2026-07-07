@@ -132,6 +132,7 @@
 | B9-uae | UAE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 7691 |
 | B9-uae | UAE_OralCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_OralCare_Category_Analysis_and_Entry_Strategy.md | 5019 |
 | B9-uae | UAE_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_SkinCare_Category_Analysis_and_Entry_Strategy.md | 8031 |
+| EXTRA-uk | UK_MACRO_Country_Entry_Foundation | facts/EXTRA-uk/UK_MACRO_Country_Entry_Foundation.md | 4467 |
 | EXTRA-usa | USA_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-usa/USA_HairCare_Category_Analysis_and_Entry_Strategy.md | 3752 |
 | EXTRA-usa | USA_MACRO_Country_Entry_Foundation | facts/EXTRA-usa/USA_MACRO_Country_Entry_Foundation.md | 4606 |
 | EXTRA-usa | USA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-usa/USA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3839 |
