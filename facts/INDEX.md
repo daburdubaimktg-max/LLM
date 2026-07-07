@@ -136,6 +136,7 @@
 | EXTRA-france | FRANCE_MACRO_Country_Entry_Foundation | facts/EXTRA-france/FRANCE_MACRO_Country_Entry_Foundation.md | 4974 |
 | EXTRA-france | FRANCE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-france/FRANCE_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5287 |
 | EXTRA-france | FRANCE_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-france/FRANCE_OralCare_Category_Analysis_and_Entry_Strategy.md | 4916 |
+| EXTRA-france | FRANCE_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-france/FRANCE_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4799 |
 | EXTRA-uk | UK_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-uk/UK_HairCare_Category_Analysis_and_Entry_Strategy.md | 3609 |
 | EXTRA-uk | UK_MACRO_Country_Entry_Foundation | facts/EXTRA-uk/UK_MACRO_Country_Entry_Foundation.md | 4467 |
 | EXTRA-uk | UK_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-uk/UK_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3915 |
