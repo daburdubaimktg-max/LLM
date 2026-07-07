@@ -44,6 +44,7 @@
 | B5-uzbekistan | UZBEKISTAN_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B5-uzbekistan/UZBEKISTAN_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3470 |
 | B6-ghana | GHANA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B6-ghana/GHANA_HairCare_Category_Analysis_and_Entry_Strategy.md | 3806 |
 | B6-ghana | GHANA_MACRO_Country_Entry_Foundation | facts/B6-ghana/GHANA_MACRO_Country_Entry_Foundation.md | 4433 |
+| B6-ghana | GHANA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B6-ghana/GHANA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3696 |
 | B6-ghana | GHANA_OralCare_Category_Analysis_and_Entry_Strategy | facts/B6-ghana/GHANA_OralCare_Category_Analysis_and_Entry_Strategy.md | 3418 |
 | B7-kenya | KENYA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B7-kenya/KENYA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4339 |
 | B7-kenya | KENYA_MACRO_Country_Entry_Foundation | facts/B7-kenya/KENYA_MACRO_Country_Entry_Foundation.md | 4349 |
