@@ -16,7 +16,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B2 | Horn of Africa | Sudan | Africa insight (+Arabic: Sudan/Somalia) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B2-sudan/` |
 | B3 | Levant / Iraq | Iraq | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-iraq/` |
 | B3 | Levant / Iraq | Jordan | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-jordan/` |
-| B3 | Levant / Iraq | Lebanon | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ⬜ | `reports/B3-lebanon/` |
+| B3 | Levant / Iraq | Lebanon | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-lebanon/` |
 | B3 | Levant / Iraq | Yemen | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-yemen/` |
 | B4 | Maghreb | Morocco | Arabic + MENA insight (+French) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B4-morocco/` |
 | B4 | Maghreb | Algeria | Arabic + MENA insight (+French) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B4-algeria/` |
@@ -50,4 +50,4 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Qatar | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-qatar/` |
 | B9 | GCC | Bahrain | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-bahrain/` |
 
-**Progress: 94 / 210 batch reports done (18 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq; Ethiopia; Somalia; Sudan; Jordan). BATCH 2 (Horn of Africa) COMPLETE. Jordan COMPLETE 5/5. In progress: Lebanon 4/5 (macro + Hair + Oral + OTC — Hair = LEAD, Oral = WATCH, OTC = BUILD "grandmother's remedy made pharmacy-precise"/Honitus). Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file. B3 next: Lebanon Skin → SUMMARY, then Yemen. B4 next: Morocco, Algeria, Tunisia, Libya. B6 next: Ghana, Ivory Coast.**
+**Progress: 95 / 210 batch reports done (19 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq; Ethiopia; Somalia; Sudan; Jordan; Lebanon). BATCH 2 (Horn of Africa) COMPLETE. Lebanon COMPLETE 5/5 (dollarized barbell; Hair = LEAD, OTC = BUILD, Skin = FLANK, Oral = WATCH). Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file. B3 next: Yemen (last B3 country). B4 next: Morocco, Algeria, Tunisia, Libya. B6 next: Ghana, Ivory Coast.**
