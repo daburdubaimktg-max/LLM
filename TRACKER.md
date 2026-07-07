@@ -25,7 +25,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B5 | Russia / CIS / Caucasus | Russia | Gap rule (generic + local-lang) |  | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B5-russia/` |
 | B5 | Russia / CIS / Caucasus | Uzbekistan | Gap rule (generic + local-lang) |  | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B5-uzbekistan/` |
 | B5 | Russia / CIS / Caucasus | Kazakhstan | Gap rule (generic + local-lang) |  | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B5-kazakhstan/` |
-| B5 | Russia / CIS / Caucasus | Kyrgyzstan | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B5-kyrgyzstan/` |
+| B5 | Russia / CIS / Caucasus | Kyrgyzstan | Gap rule (generic + local-lang) |  | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B5-kyrgyzstan/` |
 | B5 | Russia / CIS / Caucasus | Azerbaijan | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B5-azerbaijan/` |
 | B5 | Russia / CIS / Caucasus | Armenia | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B5-armenia/` |
 | B5 | Russia / CIS / Caucasus | Georgia | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B5-georgia/` |
