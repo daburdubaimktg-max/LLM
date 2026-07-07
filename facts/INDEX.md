@@ -134,6 +134,7 @@
 | B9-uae | UAE_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B9-uae/UAE_SkinCare_Category_Analysis_and_Entry_Strategy.md | 8031 |
 | EXTRA-usa | USA_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-usa/USA_HairCare_Category_Analysis_and_Entry_Strategy.md | 3752 |
 | EXTRA-usa | USA_MACRO_Country_Entry_Foundation | facts/EXTRA-usa/USA_MACRO_Country_Entry_Foundation.md | 4606 |
+| EXTRA-usa | USA_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-usa/USA_OralCare_Category_Analysis_and_Entry_Strategy.md | 3683 |
 | REF-vietnam | VIETNAM_MACRO_Country_Entry_Foundation | facts/REF-vietnam/VIETNAM_MACRO_Country_Entry_Foundation.md | 8058 |
 | vietnam | VIETNAM_HairCare_Category_Analysis_and_Entry_Strategy | facts/vietnam/VIETNAM_HairCare_Category_Analysis_and_Entry_Strategy.md | 15142 |
 | vietnam | VIETNAM_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/vietnam/VIETNAM_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 9911 |
