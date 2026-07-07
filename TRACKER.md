@@ -15,7 +15,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B2 | Horn of Africa | Somalia | Africa insight (+Arabic: Sudan/Somalia) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B2-somalia/` |
 | B2 | Horn of Africa | Sudan | Africa insight (+Arabic: Sudan/Somalia) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B2-sudan/` |
 | B3 | Levant / Iraq | Iraq | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-iraq/` |
-| B3 | Levant / Iraq | Jordan | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-jordan/` |
+| B3 | Levant / Iraq | Jordan | Arabic + MENA insight | Claude | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-jordan/` |
 | B3 | Levant / Iraq | Lebanon | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-lebanon/` |
 | B3 | Levant / Iraq | Yemen | Arabic + MENA insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B3-yemen/` |
 | B4 | Maghreb | Morocco | Arabic + MENA insight (+French) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B4-morocco/` |
@@ -50,4 +50,4 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Qatar | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-qatar/` |
 | B9 | GCC | Bahrain | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-bahrain/` |
 
-**Progress: 85 / 210 batch reports done (17 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq; Ethiopia; Somalia; Sudan). BATCH 2 (Horn of Africa) COMPLETE: Ethiopia + Somalia + Sudan all 5/5. Sudan = WATCH/pre-position (war economy); reports are recovery-window readiness assessments. Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file. Next: B3 Jordan, Lebanon, Yemen. B4 next: Morocco, Algeria, Tunisia, Libya. B6 next: Ghana, Ivory Coast.**
+**Progress: 86 / 210 batch reports done (17 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq; Ethiopia; Somalia; Sudan). BATCH 2 (Horn of Africa) COMPLETE. In progress: Jordan 1/5 (macro — NOW/GO warm-start, the inverse of Sudan's WATCH). Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file. B3 next: Jordan Hair→Oral→OTC→Skin, then Lebanon, Yemen. B4 next: Morocco, Algeria, Tunisia, Libya. B6 next: Ghana, Ivory Coast.**
