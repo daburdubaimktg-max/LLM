@@ -52,11 +52,23 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | EXTRA | North America (user-directed) | United States | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-usa/` |
 | EXTRA | Europe (user-directed) | United Kingdom | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-uk/` |
 | EXTRA | Europe (user-directed) | France | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-france/` |
-| EXTRA | Europe (user-directed) | Germany | Gap rule (generic) | Claude | ✅ | ✅ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-germany/` |
+| EXTRA | Europe (user-directed) | Germany | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ⬜ | ⬜ | `reports/EXTRA-germany/` |
 | EXTRA | Europe (user-directed) | Italy | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-italy/` |
 | EXTRA | Europe (user-directed) | Spain | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-spain/` |
 | EXTRA | North America (user-directed) | Canada | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-canada/` |
 | EXTRA | LatAm (user-directed) | Brazil | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-brazil/` |
 | EXTRA | LatAm (user-directed) | Mexico | Gap rule (generic) | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-mexico/` |
+| EXTRA | Central Africa (user-directed, queued after current directive) | Central African Republic | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-car/` |
+| EXTRA | Central Africa (user-directed, queued) | Congo-Brazzaville (Rep. of the Congo) | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-congo-brazzaville/` |
+| EXTRA | Central Africa (user-directed, queued) | Gabon | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-gabon/` |
+| EXTRA | Central Africa (user-directed, queued) | DR Congo (Kinshasa) | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-dr-congo/` |
+| EXTRA | Southern Africa (user-directed, queued) | Zimbabwe | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-zimbabwe/` |
+| EXTRA | West Africa (user-directed, queued) | Mauritania | africa-consumer-insight-expert + arabic-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-mauritania/` |
+| EXTRA | West Africa (user-directed, queued) | Guinea | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-guinea/` |
+| EXTRA | West Africa (user-directed, queued) | Cameroon | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-cameroon/` |
+| EXTRA | East Africa (user-directed, queued) | Seychelles | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-seychelles/` |
+| EXTRA | East Africa (user-directed, queued) | South Sudan | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-south-sudan/` |
+| EXTRA | East Africa (user-directed, queued) | Madagascar | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-madagascar/` |
+| EXTRA | East Africa (user-directed, queued) | Burundi | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-burundi/` |
 
 **Progress: 0 / 210 batch reports done. Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file.**
