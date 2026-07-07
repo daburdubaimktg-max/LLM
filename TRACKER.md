@@ -17,7 +17,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B3 | Levant / Iraq | Iraq | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-iraq/` |
 | B3 | Levant / Iraq | Jordan | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-jordan/` |
 | B3 | Levant / Iraq | Lebanon | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-lebanon/` |
-| B3 | Levant / Iraq | Yemen | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ⬜ | ⬜ | `reports/B3-yemen/` |
+| B3 | Levant / Iraq | Yemen | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ⬜ | `reports/B3-yemen/` |
 | B4 | Maghreb | Morocco | Arabic + MENA insight (+French) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B4-morocco/` |
 | B4 | Maghreb | Algeria | Arabic + MENA insight (+French) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B4-algeria/` |
 | B4 | Maghreb | Tunisia | Arabic + MENA insight (+French) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B4-tunisia/` |
@@ -50,4 +50,4 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Qatar | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-qatar/` |
 | B9 | GCC | Bahrain | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-bahrain/` |
 
-**Progress: 98 / 210 batch reports done (19 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq; Ethiopia; Somalia; Sudan; Jordan; Lebanon). BATCH 2 (Horn of Africa) COMPLETE. In progress: Yemen 3/5 (macro + Hair + Oral — GO-SELECTIVE; Hair = LEAD, Oral = WEDGE "the ritual word in the ritual's homeland" + the qat-mouth vacancy + the Siwak-F knot). B3 next: Yemen OTC→Skin (last B3 country). B4 next: Morocco, Algeria, Tunisia, Libya. B6 next: Ghana, Ivory Coast.**
+**Progress: 99 / 210 batch reports done (19 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq; Ethiopia; Somalia; Sudan; Jordan; Lebanon). BATCH 2 (Horn of Africa) COMPLETE. In progress: Yemen 4/5 (macro + Hair + Oral + OTC — Hair = LEAD, Oral = WEDGE, OTC = BUILD-narrow "the lozenge, the sachet, and the occasion nobody branded"/the 1957 laxative experiment). B3 next: Yemen Skin → SUMMARY (B3 COMPLETE). B4 next: Morocco, Algeria, Tunisia, Libya. B6 next: Ghana, Ivory Coast.**
