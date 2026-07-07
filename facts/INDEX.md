@@ -16,6 +16,7 @@
 | B5-kyrgyzstan | KYRGYZSTAN_MACRO_Country_Entry_Foundation | facts/B5-kyrgyzstan/KYRGYZSTAN_MACRO_Country_Entry_Foundation.md | 3412 |
 | B5-kyrgyzstan | KYRGYZSTAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B5-kyrgyzstan/KYRGYZSTAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3338 |
 | B5-kyrgyzstan | KYRGYZSTAN_OralCare_Category_Analysis_and_Entry_Strategy | facts/B5-kyrgyzstan/KYRGYZSTAN_OralCare_Category_Analysis_and_Entry_Strategy.md | 2893 |
+| B5-kyrgyzstan | KYRGYZSTAN_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B5-kyrgyzstan/KYRGYZSTAN_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3028 |
 | B5-russia | RUSSIA_HairCare_Category_Analysis_and_Entry_Strategy | facts/B5-russia/RUSSIA_HairCare_Category_Analysis_and_Entry_Strategy.md | 3910 |
 | B5-russia | RUSSIA_MACRO_Country_Entry_Foundation | facts/B5-russia/RUSSIA_MACRO_Country_Entry_Foundation.md | 4718 |
 | B5-russia | RUSSIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B5-russia/RUSSIA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3724 |
