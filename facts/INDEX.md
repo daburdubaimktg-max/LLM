@@ -17,6 +17,7 @@
 | B5-azerbaijan | AZERBAIJAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B5-azerbaijan/AZERBAIJAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3099 |
 | B5-azerbaijan | AZERBAIJAN_OralCare_Category_Analysis_and_Entry_Strategy | facts/B5-azerbaijan/AZERBAIJAN_OralCare_Category_Analysis_and_Entry_Strategy.md | 2920 |
 | B5-azerbaijan | AZERBAIJAN_SkinCare_Category_Analysis_and_Entry_Strategy | facts/B5-azerbaijan/AZERBAIJAN_SkinCare_Category_Analysis_and_Entry_Strategy.md | 2943 |
+| B5-georgia | GEORGIA_MACRO_Country_Entry_Foundation | facts/B5-georgia/GEORGIA_MACRO_Country_Entry_Foundation.md | 2721 |
 | B5-kazakhstan | KAZAKHSTAN_HairCare_Category_Analysis_and_Entry_Strategy | facts/B5-kazakhstan/KAZAKHSTAN_HairCare_Category_Analysis_and_Entry_Strategy.md | 3508 |
 | B5-kazakhstan | KAZAKHSTAN_MACRO_Country_Entry_Foundation | facts/B5-kazakhstan/KAZAKHSTAN_MACRO_Country_Entry_Foundation.md | 3686 |
 | B5-kazakhstan | KAZAKHSTAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/B5-kazakhstan/KAZAKHSTAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3609 |
