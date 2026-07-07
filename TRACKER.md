@@ -27,7 +27,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B5 | Russia / CIS / Caucasus | Kazakhstan | Gap rule (generic + local-lang) |  | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B5-kazakhstan/` |
 | B5 | Russia / CIS / Caucasus | Kyrgyzstan | Gap rule (generic + local-lang) |  | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B5-kyrgyzstan/` |
 | B5 | Russia / CIS / Caucasus | Azerbaijan | Gap rule (generic + local-lang) |  | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B5-azerbaijan/` |
-| B5 | Russia / CIS / Caucasus | Armenia | Gap rule (generic + local-lang) |  | ✅ | ✅ | ⬜ | ⬜ | ⬜ | `reports/B5-armenia/` |
+| B5 | Russia / CIS / Caucasus | Armenia | Gap rule (generic + local-lang) |  | ✅ | ✅ | ✅ | ⬜ | ⬜ | `reports/B5-armenia/` |
 | B5 | Russia / CIS / Caucasus | Georgia | Gap rule (generic + local-lang) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B5-georgia/` |
 | B6 | SSA - West | Nigeria | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B6-nigeria/` |
 | B6 | SSA - West | Ghana | Africa insight |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B6-ghana/` |
