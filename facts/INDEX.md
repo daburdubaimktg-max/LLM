@@ -136,6 +136,7 @@
 | EXTRA-brazil | BRAZIL_MACRO_Country_Entry_Foundation | facts/EXTRA-brazil/BRAZIL_MACRO_Country_Entry_Foundation.md | 4894 |
 | EXTRA-brazil | BRAZIL_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-brazil/BRAZIL_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5114 |
 | EXTRA-brazil | BRAZIL_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-brazil/BRAZIL_OralCare_Category_Analysis_and_Entry_Strategy.md | 4584 |
+| EXTRA-brazil | BRAZIL_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-brazil/BRAZIL_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4807 |
 | EXTRA-canada | CANADA_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4741 |
 | EXTRA-canada | CANADA_MACRO_Country_Entry_Foundation | facts/EXTRA-canada/CANADA_MACRO_Country_Entry_Foundation.md | 5111 |
 | EXTRA-canada | CANADA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5122 |
