@@ -18,7 +18,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B3 | Levant / Iraq | Jordan | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-jordan/` |
 | B3 | Levant / Iraq | Lebanon | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-lebanon/` |
 | B3 | Levant / Iraq | Yemen | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B3-yemen/` |
-| B4 | Maghreb | Morocco | Arabic + MENA insight (+French) | Claude | ✅ | ✅ | ⬜ | ⬜ | ⬜ | `reports/B4-morocco/` |
+| B4 | Maghreb | Morocco | Arabic + MENA insight (+French) | Claude | ✅ | ✅ | ✅ | ⬜ | ⬜ | `reports/B4-morocco/` |
 | B4 | Maghreb | Algeria | Arabic + MENA insight (+French) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B4-algeria/` |
 | B4 | Maghreb | Tunisia | Arabic + MENA insight (+French) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B4-tunisia/` |
 | B4 | Maghreb | Libya | Arabic + MENA insight (+French) |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/B4-libya/` |
@@ -50,4 +50,4 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | B9 | GCC | Qatar | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-qatar/` |
 | B9 | GCC | Bahrain | Arabic + MENA insight | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/B9-bahrain/` |
 
-**Progress: 102 / 210 batch reports done (20 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq; Ethiopia; Somalia; Sudan; Jordan; Lebanon; Yemen). BATCH 2 (Horn of Africa) COMPLETE. BATCH 3 (Levant/Iraq) COMPLETE — Iraq + Jordan + Lebanon + Yemen 20/20; Yemen: Hair = LEAD (Sidr first-mover into the P&G vacuum), Oral = WEDGE (heartland + the Siwak-F memo), OTC = BUILD-narrow (format law), Skin = FLANK (fitrah frame + Socotra story); see `reports/B3-SUMMARY.md`. B4 opened: Morocco 2/5 (macro ✅ GOVERN-AND-BUILD + Hair ✅ LEAD "govern the anarchy, take the loose third slot, bring the hammam home" — Vatika Hammam Zaith homecoming; 5.5× price-anarchy governance case). B4 next: Morocco Oral → OTC → Skin, then Algeria, Tunisia, Libya. B6 next: Ghana, Ivory Coast.**
+**Progress: 103 / 210 batch reports done (20 country sets complete: Malaysia; Kenya·Uganda·Tanzania·Rwanda; South Africa; Saudi·UAE·Kuwait·Oman·Qatar·Bahrain; Nigeria; Iraq; Ethiopia; Somalia; Sudan; Jordan; Lebanon; Yemen). BATCH 2 (Horn of Africa) COMPLETE. BATCH 3 (Levant/Iraq) COMPLETE — Iraq + Jordan + Lebanon + Yemen 20/20; Yemen: Hair = LEAD (Sidr first-mover into the P&G vacuum), Oral = WEDGE (heartland + the Siwak-F memo), OTC = BUILD-narrow (format law), Skin = FLANK (fitrah frame + Socotra story); see `reports/B3-SUMMARY.md`. B4 opened: Morocco 3/5 (macro ✅ GOVERN-AND-BUILD; Hair ✅ LEAD hammam-homecoming; Oral ✅ WEDGE "own the word both ways" — the two-siwak finding: arak stick + swak-beldi walnut bark; Signal asymmetry). B4 next: Morocco OTC → Skin, then Algeria, Tunisia, Libya. B6 next: Ghana, Ivory Coast.**
