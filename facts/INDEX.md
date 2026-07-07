@@ -144,6 +144,7 @@
 | EXTRA-germany | GERMANY_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-germany/GERMANY_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4485 |
 | EXTRA-italy | ITALY_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-italy/ITALY_HairCare_Category_Analysis_and_Entry_Strategy.md | 4322 |
 | EXTRA-italy | ITALY_MACRO_Country_Entry_Foundation | facts/EXTRA-italy/ITALY_MACRO_Country_Entry_Foundation.md | 5044 |
+| EXTRA-italy | ITALY_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-italy/ITALY_OralCare_Category_Analysis_and_Entry_Strategy.md | 4017 |
 | EXTRA-uk | UK_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-uk/UK_HairCare_Category_Analysis_and_Entry_Strategy.md | 3609 |
 | EXTRA-uk | UK_MACRO_Country_Entry_Foundation | facts/EXTRA-uk/UK_MACRO_Country_Entry_Foundation.md | 4467 |
 | EXTRA-uk | UK_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-uk/UK_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3915 |
