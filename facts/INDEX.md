@@ -181,6 +181,7 @@
 | EXTRA-south-sudan | SOUTH_SUDAN_MACRO_Country_Entry_Foundation | facts/EXTRA-south-sudan/SOUTH_SUDAN_MACRO_Country_Entry_Foundation.md | 3955 |
 | EXTRA-south-sudan | SOUTH_SUDAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-south-sudan/SOUTH_SUDAN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3221 |
 | EXTRA-south-sudan | SOUTH_SUDAN_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-south-sudan/SOUTH_SUDAN_OralCare_Category_Analysis_and_Entry_Strategy.md | 2987 |
+| EXTRA-south-sudan | SOUTH_SUDAN_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-south-sudan/SOUTH_SUDAN_SkinCare_Category_Analysis_and_Entry_Strategy.md | 5028 |
 | EXTRA-spain | SPAIN_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-spain/SPAIN_HairCare_Category_Analysis_and_Entry_Strategy.md | 5248 |
 | EXTRA-spain | SPAIN_MACRO_Country_Entry_Foundation | facts/EXTRA-spain/SPAIN_MACRO_Country_Entry_Foundation.md | 4660 |
 | EXTRA-spain | SPAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-spain/SPAIN_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5438 |
