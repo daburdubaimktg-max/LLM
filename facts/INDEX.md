@@ -171,6 +171,7 @@
 | EXTRA-madagascar | MADAGASCAR_MACRO_Country_Entry_Foundation | facts/EXTRA-madagascar/MADAGASCAR_MACRO_Country_Entry_Foundation.md | 4131 |
 | EXTRA-madagascar | MADAGASCAR_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-madagascar/MADAGASCAR_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4097 |
 | EXTRA-madagascar | MADAGASCAR_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-madagascar/MADAGASCAR_OralCare_Category_Analysis_and_Entry_Strategy.md | 3741 |
+| EXTRA-madagascar | MADAGASCAR_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-madagascar/MADAGASCAR_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3839 |
 | EXTRA-mexico | MEXICO_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-mexico/MEXICO_HairCare_Category_Analysis_and_Entry_Strategy.md | 4746 |
 | EXTRA-mexico | MEXICO_MACRO_Country_Entry_Foundation | facts/EXTRA-mexico/MEXICO_MACRO_Country_Entry_Foundation.md | 5172 |
 | EXTRA-mexico | MEXICO_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-mexico/MEXICO_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4743 |
