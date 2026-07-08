@@ -141,6 +141,7 @@
 | EXTRA-burundi | BURUNDI_MACRO_Country_Entry_Foundation | facts/EXTRA-burundi/BURUNDI_MACRO_Country_Entry_Foundation.md | 3948 |
 | EXTRA-burundi | BURUNDI_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-burundi/BURUNDI_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3747 |
 | EXTRA-burundi | BURUNDI_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-burundi/BURUNDI_OralCare_Category_Analysis_and_Entry_Strategy.md | 3627 |
+| EXTRA-burundi | BURUNDI_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-burundi/BURUNDI_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3808 |
 | EXTRA-canada | CANADA_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4741 |
 | EXTRA-canada | CANADA_MACRO_Country_Entry_Foundation | facts/EXTRA-canada/CANADA_MACRO_Country_Entry_Foundation.md | 5111 |
 | EXTRA-canada | CANADA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5122 |
