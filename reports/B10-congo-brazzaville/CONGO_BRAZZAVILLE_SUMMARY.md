@@ -73,3 +73,9 @@ l'Union/Gabonreview date an ~80,000-tablet Ndendé seizure (20M FCFA, «cobolos�
 occurred (2022 AND 2024) or one is mis-dated across sources. Both datings are now carried openly; the reconciliation query
 («saisie Ndendé OCLAD 2022 2024 comprimés contrefaits — une ou deux opérations?») is in the Gabon OTC deck's re-validation
 queue. The corridor itself is not in doubt.
+
+**ERRATUM #3 (8 Jul 2026, from the DR Congo macro pass):** the Congo-B Hair deck's teardown referenced "Darling/SFMC-Kinshasa"
+with a Kinshasa factory. DRC-pass verification finds **SFMC registered in Côte d'Ivoire**, Godrej/Darling manufacturing
+**Lagos-centred**, and **no Kinshasa factory confirmable** — Darling's Kinshasa presence is strong retail/brand, not confirmed
+manufacturing. The hair deck's execution-gap read (Darling demand present in Brazzaville, formal architecture absent) SURVIVES —
+but its "Kinshasa factory" leg is withdrawn. Corrected citation carried in `reports/B10-dr-congo/DR_CONGO_MACRO` (banner + M8).
