@@ -66,3 +66,10 @@ search-engine synthesis artifact (the ISS Africa article it traced to is dated 2
 The corridor itself remains real and recurring: Gabonese interdiction aggregates ran ~61,000 tablets (2024) and ~76,000 (2025)
 `[!] aggregate primary source not pinned`. The Congo-B macro HTML is left as-shipped; this erratum is the standing correction
 of record, and the Gabon macro (banner + T15) carries the corrected citation.
+
+**ERRATUM AMENDED (8 Jul 2026, from the Gabon OTC pass):** the Ndendé dating is now CONTESTED rather than cleanly corrected —
+l'Union/Gabonreview date an ~80,000-tablet Ndendé seizure (20M FCFA, «cobolos»/supplements, Congo-B origin, named arrests) to
+**9 July 2024**, while ISS Africa references a **January 2022** seizure of near-identical value. Either two similar seizures
+occurred (2022 AND 2024) or one is mis-dated across sources. Both datings are now carried openly; the reconciliation query
+(«saisie Ndendé OCLAD 2022 2024 comprimés contrefaits — une ou deux opérations?») is in the Gabon OTC deck's re-validation
+queue. The corridor itself is not in doubt.
