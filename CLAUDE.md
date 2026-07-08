@@ -92,3 +92,29 @@ falls short of the checklist in `kit/0_START_HERE_HANDOVER.md` §7 is rejected, 
    Hair → Oral → OTC Health → Skin, committing each.
 4. When a batch completes, add a short attractiveness × right-to-win ranking to
    `reports/<batch>-SUMMARY.md`.
+
+## 8. Stack, commands & gotchas
+This is a **research + document repo**, not a software build — there is no package manager,
+compiler, or test suite. The only executable is a Python 3 helper.
+
+- **Stack:** deliverables are **HTML with print-CSS** (shell in
+  `.claude/skills/country-analysis/assets/report_shell.html`, palette `#1B5E20` / `#2D7D32` /
+  `#F57C00`). The method lives in `.claude/skills/` (Claude Code skills). Knowledge layer under
+  `facts/` is plain markdown. `tools/extract_facts.py` is **Python 3, stdlib only** (deterministic,
+  no dependencies).
+- **Commands:**
+  - Regenerate the `facts/` knowledge layer from the HTML reports: `python3 tools/extract_facts.py`
+    (run after every new report ships; commit `facts/` together with the report — see
+    `KNOWLEDGE_BASE.md`).
+  - There is no `dev`/`test`/`build` step — a report is "done" when it passes the checklist in
+    `kit/0_START_HERE_HANDOVER.md` §7 against the `benchmarks/vietnam/` bar.
+- **Gotchas:**
+  - Three skill files arrived **truncated mid-sentence** in the handover (see `kit/KNOWN_ISSUES.md`):
+    `country-analysis/SKILL.md` (Phase 2 tail onward), `references/information-heads.md` (C12 tail,
+    C13–C18), `references/report-template.md` (C8–C18 rows). Reconstruct the missing C-heads from the
+    intact DEPTH MANDATE module list + the four Vietnam benchmark decks + `kit/1_PROJECT_INSTRUCTIONS.md`
+    §5 — don't invent them.
+  - `tracker/Country_Sprint_Tracker.xlsx` is the human team's original; `TRACKER.md` is the live
+    source of truth Claude updates — keep edits in the `.md`, not the `.xlsx`.
+  - Public web data only (§5). Never commit confidential Dabur numbers, and never let a real secret
+    or key land in any file.
