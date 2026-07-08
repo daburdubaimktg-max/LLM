@@ -61,7 +61,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | EXTRA | Central Africa (user-directed, queued after current directive) | Central African Republic | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-car/` |
 | EXTRA | Central Africa (user-directed, queued) | Congo-Brazzaville (Rep. of the Congo) | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-congo-brazzaville/` |
 | EXTRA | Central Africa (user-directed, queued) | Gabon | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-gabon/` |
-| EXTRA | Central Africa (user-directed, queued) | DR Congo (Kinshasa) | africa-consumer-insight-expert | Claude | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-dr-congo/` |
+| EXTRA | Central Africa (user-directed, queued) | DR Congo (Kinshasa) | africa-consumer-insight-expert | Claude | ✅ | ✅ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-dr-congo/` |
 | EXTRA | Southern Africa (user-directed, queued) | Zimbabwe | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-zimbabwe/` |
 | EXTRA | West Africa (user-directed, queued) | Mauritania | africa-consumer-insight-expert + arabic-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-mauritania/` |
 | EXTRA | West Africa (user-directed, queued) | Guinea | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-guinea/` |
