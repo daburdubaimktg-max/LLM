@@ -144,6 +144,7 @@
 | EXTRA-canada | CANADA_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4772 |
 | EXTRA-car | CAR_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-car/CAR_HairCare_Category_Analysis_and_Entry_Strategy.md | 3590 |
 | EXTRA-car | CAR_MACRO_Country_Entry_Foundation | facts/EXTRA-car/CAR_MACRO_Country_Entry_Foundation.md | 3748 |
+| EXTRA-car | CAR_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-car/CAR_OralCare_Category_Analysis_and_Entry_Strategy.md | 3367 |
 | EXTRA-dr-congo | DR_CONGO_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-dr-congo/DR_CONGO_HairCare_Category_Analysis_and_Entry_Strategy.md | 4155 |
 | EXTRA-dr-congo | DR_CONGO_MACRO_Country_Entry_Foundation | facts/EXTRA-dr-congo/DR_CONGO_MACRO_Country_Entry_Foundation.md | 4123 |
 | EXTRA-dr-congo | DR_CONGO_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-dr-congo/DR_CONGO_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4043 |
