@@ -58,7 +58,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | EXTRA | North America (user-directed) | Canada | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-canada/` |
 | EXTRA | LatAm (user-directed) | Brazil | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-brazil/` |
 | EXTRA | LatAm (user-directed) | Mexico | Gap rule (generic) | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-mexico/` |
-| EXTRA | Central Africa (user-directed, queued after current directive) | Central African Republic | africa-consumer-insight-expert | Claude | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-car/` |
+| EXTRA | Central Africa (user-directed, queued after current directive) | Central African Republic | africa-consumer-insight-expert | Claude | ✅ | ✅ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-car/` |
 | EXTRA | Central Africa (user-directed, queued) | Congo-Brazzaville (Rep. of the Congo) | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-congo-brazzaville/` |
 | EXTRA | Central Africa (user-directed, queued) | Gabon | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-gabon/` |
 | EXTRA | Central Africa (user-directed, queued) | DR Congo (Kinshasa) | africa-consumer-insight-expert | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-dr-congo/` |
