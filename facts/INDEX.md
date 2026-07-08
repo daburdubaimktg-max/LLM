@@ -137,6 +137,11 @@
 | EXTRA-brazil | BRAZIL_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-brazil/BRAZIL_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5114 |
 | EXTRA-brazil | BRAZIL_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-brazil/BRAZIL_OralCare_Category_Analysis_and_Entry_Strategy.md | 4584 |
 | EXTRA-brazil | BRAZIL_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-brazil/BRAZIL_SkinCare_Category_Analysis_and_Entry_Strategy.md | 4807 |
+| EXTRA-burundi | BURUNDI_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-burundi/BURUNDI_HairCare_Category_Analysis_and_Entry_Strategy.md | 3432 |
+| EXTRA-burundi | BURUNDI_MACRO_Country_Entry_Foundation | facts/EXTRA-burundi/BURUNDI_MACRO_Country_Entry_Foundation.md | 3948 |
+| EXTRA-burundi | BURUNDI_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-burundi/BURUNDI_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3747 |
+| EXTRA-burundi | BURUNDI_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-burundi/BURUNDI_OralCare_Category_Analysis_and_Entry_Strategy.md | 3627 |
+| EXTRA-burundi | BURUNDI_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-burundi/BURUNDI_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3808 |
 | EXTRA-canada | CANADA_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_HairCare_Category_Analysis_and_Entry_Strategy.md | 4741 |
 | EXTRA-canada | CANADA_MACRO_Country_Entry_Foundation | facts/EXTRA-canada/CANADA_MACRO_Country_Entry_Foundation.md | 5111 |
 | EXTRA-canada | CANADA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-canada/CANADA_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 5122 |
@@ -167,6 +172,11 @@
 | EXTRA-italy | ITALY_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-italy/ITALY_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4190 |
 | EXTRA-italy | ITALY_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-italy/ITALY_OralCare_Category_Analysis_and_Entry_Strategy.md | 4017 |
 | EXTRA-italy | ITALY_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-italy/ITALY_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3958 |
+| EXTRA-madagascar | MADAGASCAR_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-madagascar/MADAGASCAR_HairCare_Category_Analysis_and_Entry_Strategy.md | 3825 |
+| EXTRA-madagascar | MADAGASCAR_MACRO_Country_Entry_Foundation | facts/EXTRA-madagascar/MADAGASCAR_MACRO_Country_Entry_Foundation.md | 4131 |
+| EXTRA-madagascar | MADAGASCAR_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-madagascar/MADAGASCAR_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4097 |
+| EXTRA-madagascar | MADAGASCAR_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-madagascar/MADAGASCAR_OralCare_Category_Analysis_and_Entry_Strategy.md | 3741 |
+| EXTRA-madagascar | MADAGASCAR_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-madagascar/MADAGASCAR_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3839 |
 | EXTRA-mexico | MEXICO_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-mexico/MEXICO_HairCare_Category_Analysis_and_Entry_Strategy.md | 4746 |
 | EXTRA-mexico | MEXICO_MACRO_Country_Entry_Foundation | facts/EXTRA-mexico/MEXICO_MACRO_Country_Entry_Foundation.md | 5172 |
 | EXTRA-mexico | MEXICO_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-mexico/MEXICO_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4743 |
