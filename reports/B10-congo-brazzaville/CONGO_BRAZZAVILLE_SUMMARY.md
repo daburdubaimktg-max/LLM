@@ -53,3 +53,16 @@ AFCC Lagos under corporate query as the potential intra-African lane — one con
 3. DPM paths: drug AMM fees (OTC wave-2), cosmetics registration (skin), registration authority confirmation (macro gap #1).
 4. Repatriation rate (70% vs 35%) and the excise schedule per HS line.
 5. The in-country shelf walk (all four decks' price captures are declared THIN) + the native Lingala validation pass.
+
+---
+
+## ERRATUM (filed 8 Jul 2026, from the Gabon macro pass)
+
+The Congo-Brazzaville macro deck (M8/counterfeit section) cited "~80,000 counterfeit tablets of Congolese origin seized in
+Gabon, **July 2024**." Independent re-verification during the Gabon macro research dates that specific seizure to
+**7 January 2022 at Ndendé (Nyanga province)** — OCLAD operation, FCFA 20M value, «cobolos»/supplements/stimulants,
+Congo-Brazzaville origin, arrests made (Gabonreview; L'Union/Sonapresse). The "July 2024" version appears to be a
+search-engine synthesis artifact (the ISS Africa article it traced to is dated 23 March 2022 and contains no 2024 reference).
+The corridor itself remains real and recurring: Gabonese interdiction aggregates ran ~61,000 tablets (2024) and ~76,000 (2025)
+`[!] aggregate primary source not pinned`. The Congo-B macro HTML is left as-shipped; this erratum is the standing correction
+of record, and the Gabon macro (banner + T15) carries the corrected citation.
