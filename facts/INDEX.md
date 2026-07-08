@@ -177,6 +177,7 @@
 | EXTRA-seychelles | SEYCHELLES_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-seychelles/SEYCHELLES_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 3482 |
 | EXTRA-seychelles | SEYCHELLES_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-seychelles/SEYCHELLES_OralCare_Category_Analysis_and_Entry_Strategy.md | 3306 |
 | EXTRA-seychelles | SEYCHELLES_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-seychelles/SEYCHELLES_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3455 |
+| EXTRA-south-sudan | SOUTH_SUDAN_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-south-sudan/SOUTH_SUDAN_HairCare_Category_Analysis_and_Entry_Strategy.md | 3298 |
 | EXTRA-south-sudan | SOUTH_SUDAN_MACRO_Country_Entry_Foundation | facts/EXTRA-south-sudan/SOUTH_SUDAN_MACRO_Country_Entry_Foundation.md | 3955 |
 | EXTRA-spain | SPAIN_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-spain/SPAIN_HairCare_Category_Analysis_and_Entry_Strategy.md | 5248 |
 | EXTRA-spain | SPAIN_MACRO_Country_Entry_Foundation | facts/EXTRA-spain/SPAIN_MACRO_Country_Entry_Foundation.md | 4660 |
