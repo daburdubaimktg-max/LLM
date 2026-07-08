@@ -68,7 +68,7 @@ Report order per country: **Macro → Hair → Oral → OTC Health → Skin.** R
 | EXTRA | West Africa (user-directed, queued) | Cameroon | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-cameroon/` |
 | EXTRA | East Africa (user-directed, queued) | Seychelles | africa-consumer-insight-expert | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-seychelles/` |
 | EXTRA | East Africa (user-directed, queued) | South Sudan | africa-consumer-insight-expert | Claude | ✅ | ✅ | ✅ | ✅ | ✅ | `reports/EXTRA-south-sudan/` |
-| EXTRA | East Africa (user-directed, queued) | Madagascar | africa-consumer-insight-expert | Claude | ✅ | ✅ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-madagascar/` |
+| EXTRA | East Africa (user-directed, queued) | Madagascar | africa-consumer-insight-expert | Claude | ✅ | ✅ | ✅ | ⬜ | ⬜ | `reports/EXTRA-madagascar/` |
 | EXTRA | East Africa (user-directed, queued) | Burundi | africa-consumer-insight-expert | Claude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | `reports/EXTRA-burundi/` |
 
 **Progress: 0 / 210 batch reports done. Calibration: Vietnam macro in review (reports/REF-vietnam/), 4 benchmark decks on file.**
