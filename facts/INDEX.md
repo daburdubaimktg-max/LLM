@@ -167,6 +167,7 @@
 | EXTRA-italy | ITALY_OTC_HealthCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-italy/ITALY_OTC_HealthCare_Category_Analysis_and_Entry_Strategy.md | 4190 |
 | EXTRA-italy | ITALY_OralCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-italy/ITALY_OralCare_Category_Analysis_and_Entry_Strategy.md | 4017 |
 | EXTRA-italy | ITALY_SkinCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-italy/ITALY_SkinCare_Category_Analysis_and_Entry_Strategy.md | 3958 |
+| EXTRA-madagascar | MADAGASCAR_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-madagascar/MADAGASCAR_HairCare_Category_Analysis_and_Entry_Strategy.md | 3825 |
 | EXTRA-madagascar | MADAGASCAR_MACRO_Country_Entry_Foundation | facts/EXTRA-madagascar/MADAGASCAR_MACRO_Country_Entry_Foundation.md | 4131 |
 | EXTRA-mexico | MEXICO_HairCare_Category_Analysis_and_Entry_Strategy | facts/EXTRA-mexico/MEXICO_HairCare_Category_Analysis_and_Entry_Strategy.md | 4746 |
 | EXTRA-mexico | MEXICO_MACRO_Country_Entry_Foundation | facts/EXTRA-mexico/MEXICO_MACRO_Country_Entry_Foundation.md | 5172 |
