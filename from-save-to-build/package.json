@@ -1,0 +1,22 @@
+{
+  "name": "from-save-to-build",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "db:reset": "scripts/dev-db.sh fstb_dev",
+    "db:test": "SKIP_SEED=0 scripts/dev-db.sh fstb_test",
+    "test": "npm run db:test && vitest run",
+    "gateway": "tsx dev/gateway.ts",
+    "postgrest": "scripts/postgrest.sh",
+    "e2e": "node e2e/run.mjs"
+  },
+  "devDependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "@types/node": "^22.0.0",
+    "@types/pg": "^8.11.0",
+    "pg": "^8.12.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  }
+}
