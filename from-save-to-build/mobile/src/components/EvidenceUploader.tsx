@@ -39,7 +39,7 @@ export function EvidenceList({ files }: { files: EvidenceFile[] }) {
 
 export function EvidenceUploader({ sessionId, target, consent, existing = [], onUploaded, suggested }: {
   sessionId: string; target: EvidenceTarget; consent: ConsentFlags; existing?: EvidenceFile[];
-  onUploaded?: () => void | Promise<void>; /** Kinds the task says would help. Purely informational. */ suggested?: EvidenceKind[] }) {
+  onUploaded?: () => unknown; /** Kinds the task says would help. Purely informational. */ suggested?: EvidenceKind[] }) {
   const [justAdded, setJustAdded] = useState<{ name: string; kind: EvidenceKind }[]>([]);
   const [busyKind, setBusyKind] = useState<EvidenceKind | null>(null);
   const upload = useAction(async (kind: EvidenceKind, mime: string) => {

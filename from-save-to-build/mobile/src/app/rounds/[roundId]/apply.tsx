@@ -185,7 +185,7 @@ export default function Apply() {
   const { roundId } = useLocalSearchParams<{ roundId: string }>();
   const { userId, ready } = useAuth();
   const formOpen = useRef(false);
-  const q = useQuery({ queryKey: keys.round(roundId), queryFn: () => api.roundDetail(roundId), enabled: !!userId });
+  const q = useQuery({ queryKey: keys.round(roundId), queryFn: () => api.roundDetail(roundId), enabled: !!userId, refetchOnMount: 'always' });
   if (!ready) return <Screen title="Apply to test"><Loading /></Screen>;
   if (!userId) return <SignInScreen title="Apply to test" message="Sign in or create a free account to apply. It takes a minute." next={`/rounds/${roundId}/apply`} />;
   // Wait for a fresh copy so a draft saved a moment ago is never missed.

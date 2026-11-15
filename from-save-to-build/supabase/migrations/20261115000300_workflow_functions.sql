@@ -631,7 +631,8 @@ declare s test_sessions; v_open int; v_id uuid;
 begin
   s := public._own_session(p_session, true);
   select count(*) into v_open from task_completions
-  where session_id = s.id and is_required and status not in ('completed','blocked');
+  where session_id = s.id and is_required and status not in ('completed','blocked')
+    and not (allow_skip and status = 'skipped');          -- a skippable task that was skipped never traps the tester
   if v_open > 0 then
     raise exception '% required task(s) still need to be finished before the final review', v_open using errcode = '22023';
   end if;
