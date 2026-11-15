@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.local
+dev/.data/
+dev/bin/
+mobile/dist/
+mobile/.expo/
+e2e/screenshots/
+*.log
