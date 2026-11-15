@@ -1,6 +1,7 @@
 // Tester profile review for one application: who they are, what they answered, and the decision.
 import { useLocalSearchParams } from 'expo-router';
 import { useState } from 'react';
+import { View } from 'react-native';
 import { ASSIGNMENT_STATUS, AWAITING, SESSION_STATUS, SignInPrompt, activeAssignmentFor, formatAnswer, go, invalidateRound, param, sessionForAssignment, useCreatorRound, yesNo } from '@/components/creator-review';
 import { api } from '@/lib/api';
 import { useAuth } from '@/lib/auth';
@@ -101,7 +102,12 @@ function Review({ app, data, roundId }: { app: CreatorApplication; data: Creator
           : data.round.application_form.steps.filter((s) => s.questions.length > 0).map((step) => (
             <Card key={step.id}>
               <H3>{step.title}</H3>
-              {step.questions.map((q) => <KeyValue key={q.key} k={q.label} v={formatAnswer(q, app.answers?.[q.key])} />)}
+              {step.questions.map((q) => (
+                <View key={q.key} style={{ gap: 2, paddingVertical: 4 }}>
+                  <Muted style={{ fontSize: theme.font.small }}>{q.label}</Muted>
+                  <P>{formatAnswer(q, app.answers?.[q.key])}</P>
+                </View>
+              ))}
             </Card>
           ))}
       </Section>

@@ -121,7 +121,12 @@ function Review({ f, r }: { f: Finding; r: ReportDetail }) {
       <Section title="Project tasks from this finding">
         {f.project_tasks.length === 0 ? <Muted>None yet.</Muted> : (
           <Card>
-            {f.project_tasks.map((t) => <KeyValue key={t.id} k={t.title} v={TASK_STATUS[t.status] ?? humanise(t.status)} />)}
+            {f.project_tasks.map((t) => (
+              <Row key={t.id} style={{ justifyContent: 'space-between' }} gap={theme.space.md}>
+                <P style={{ flex: 1 }}>{t.title}</P>
+                <Badge label={TASK_STATUS[t.status] ?? humanise(t.status)} tone={t.status === 'resolved' ? 'good' : 'neutral'} />
+              </Row>
+            ))}
           </Card>
         )}
         <Card>
